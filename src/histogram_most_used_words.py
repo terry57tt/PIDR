@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-file_path = 'src/data.csv'
+file_path = 'data/captions.csv'
 
 data = pd.read_csv(file_path, header=0)
 
