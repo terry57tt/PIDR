@@ -41,6 +41,7 @@ axs[3].set_title('T5_2')
 axs[4].bar(list(data_FST.keys())[:10], list(data_FST.values())[:10])
 axs[4].set_title('FST')
 
+plt.xticks(rotation=45)
 plt.suptitle('Top 10 Most Used Words by Each IA compared to the others')
 plt.tight_layout()
 plt.show()

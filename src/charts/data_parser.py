@@ -24,6 +24,7 @@ def parser():
     for createur in datasets:
         for _, data_row in datasets[createur].iterrows():
             string = data_row['caption']
+            string = string.lower()
             tab = string.split(' ')
 
             for i in range(len(tab)):
