@@ -1,7 +1,9 @@
 import csv
+import random
+
 import matplotlib.pyplot as plt
 import numpy as np
-from nltk.translate.bleu_score import sentence_bleu
+from nltk.translate.bleu_score import sentence_bleu, SmoothingFunction
 from nltk.translate.meteor_score import single_meteor_score
 from rouge_score import rouge_scorer
 
@@ -22,7 +24,8 @@ def evaluate_metrics(reference, hypothesis):
     hypothesis_tokens = tokenize_phrase(hypothesis)
 
     # BLEU score
-    bleu_score = sentence_bleu([reference_tokens], hypothesis_tokens)
+    smoothing_function = SmoothingFunction().method4
+    bleu_score = sentence_bleu([reference_tokens], hypothesis_tokens, smoothing_function=smoothing_function)
 
     # ROUGE score
     rouge_scorer_instance = rouge_scorer.RougeScorer(['rougeL'], use_stemmer=True)
@@ -76,3 +79,44 @@ bleu, rouge, meteor = create_matrix(895)
 plot_matrix(bleu, 'BLEU Score', 'plot/bleu_score.png')
 plot_matrix(rouge, 'ROUGE Score', 'plot/rouge_score.png')
 plot_matrix(meteor, 'METEOR Score', 'plot/meteor_score.png')
+
+def get_random_interpretation_id():
+    interpretation_ids = []
+    with open('data/captions.csv', 'r', encoding='utf-8') as file:
+        csv_reader = csv.DictReader(file)
+        for row in csv_reader:
+            interpretation_ids.append(row['idInterpretation_id'])
+    return random.choice(interpretation_ids)
+
+def means_and_std(nb_test):
+    scores_bleu = np.zeros((5, 5, nb_test))
+    scores_rouge = np.zeros((5, 5, nb_test))
+    scores_meteor = np.zeros((5, 5, nb_test))
+
+    for test in range(nb_test):
+        interpretation_id = get_random_interpretation_id()
+        print(interpretation_id)
+        bleu, rouge, meteor = create_matrix(interpretation_id)
+        scores_bleu[:, :, test] = bleu
+        scores_rouge[:, :, test] = rouge
+        scores_meteor[:, :, test] = meteor
+
+    mean_bleu = np.mean(scores_bleu, axis=2)
+    std_bleu = np.std(scores_bleu, axis=2)
+    mean_rouge = np.mean(scores_rouge, axis=2)
+    std_rouge = np.std(scores_rouge, axis=2)
+    mean_meteor = np.mean(scores_meteor, axis=2)
+    std_meteor = np.std(scores_meteor, axis=2)
+
+    return (mean_bleu, std_bleu), (mean_rouge, std_rouge), (mean_meteor, std_meteor)
+
+bleu, rouge, meteor = means_and_std(10)
+
+plot_matrix(bleu[0], 'BLEU Score (mean)', 'plot/bleu_score_mean.png')
+plot_matrix(bleu[1], 'BLEU Score (std)', 'plot/bleu_score_std.png')
+
+plot_matrix(rouge[0], 'ROUGE Score (mean)', 'plot/rouge_score_mean.png')
+plot_matrix(rouge[1], 'ROUGE Score (std)', 'plot/rouge_score_std.png')
+
+plot_matrix(meteor[0], 'METEOR Score (mean)', 'plot/meteor_score_mean.png')
+plot_matrix(meteor[1], 'METEOR Score (std)', 'plot/meteor_score_std.png')
