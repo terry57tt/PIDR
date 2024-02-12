@@ -6,6 +6,8 @@ import numpy as np
 from nltk.translate.bleu_score import sentence_bleu, SmoothingFunction
 from nltk.translate.meteor_score import single_meteor_score
 from rouge_score import rouge_scorer
+import data_parser
+import pandas as pd
 
 
 def tokenize_phrase(phrase):
@@ -120,3 +122,5 @@ plot_matrix(rouge[1], 'ROUGE Score (std)', 'plot/rouge_score_std.png')
 
 plot_matrix(meteor[0], 'METEOR Score (mean)', 'plot/meteor_score_mean.png')
 plot_matrix(meteor[1], 'METEOR Score (std)', 'plot/meteor_score_std.png')
+
+
