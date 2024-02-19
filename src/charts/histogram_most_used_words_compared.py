@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import data_parser
 
-data_bart_1, data_bart_2, data_t5_1, data_t5_2, data_FST, combined_data = data_parser.parser()
+data_bart_1, data_bart_2, data_t5_1, data_t5_2, data_FST, combined_data = data_parser.parser(delete_useless_words=True)
 
 #Sort the data
 data_bart_1 = {k: v for k, v in sorted(data_bart_1.items(), key=lambda item: item[1], reverse=True)}

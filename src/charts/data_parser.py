@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-def parser():
+def parser(delete_useless_words=False):
 
     file_path = 'data/captions.csv'
 
@@ -21,6 +21,8 @@ def parser():
     data_FST = {}
     combined_data = {}
 
+    useless_words = ["the","i","a","it","not","way","am","are","is","what","me","this","because","an","and","or","but","as","of","at","by","for","with","about","to","from","in","on","off","i'm","they","that","he","she","we","you","your","my","his","her","their","our","its","it's","there","here","where","when","how","why","who"]
+    
     for createur in datasets:
         for _, data_row in datasets[createur].iterrows():
             string = data_row['caption']
@@ -38,7 +40,14 @@ def parser():
                 if "&" in str:
                     tab.pop(i)
                     tab.extend(str.split('&'))
-                    
+
+            if delete_useless_words:
+                ntab = []
+                for word in tab:
+                    if word not in useless_words:
+                        ntab.append(word)
+                tab = ntab                        
+
             for word in tab:
                 if word in combined_data:
                     combined_data[word] += 1
