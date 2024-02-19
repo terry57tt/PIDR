@@ -1,6 +1,10 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+from nltk.corpus import stopwords
+import nltk
+
+nltk.download('stopwords')
 
 
 def parser(delete_useless_words=False):
@@ -21,7 +25,7 @@ def parser(delete_useless_words=False):
     data_FST = {}
     combined_data = {}
 
-    useless_words = ["the","i","a","it","not","way","am","are","is","what","me","this","because","an","and","or","but","as","of","at","by","for","with","about","to","from","in","on","off","i'm","they","that","he","she","we","you","your","my","his","her","their","our","its","it's","there","here","where","when","how","why","who"]
+    stop_words = set(stopwords.words('english'))
     
     for createur in datasets:
         for _, data_row in datasets[createur].iterrows():
@@ -44,7 +48,7 @@ def parser(delete_useless_words=False):
             if delete_useless_words:
                 ntab = []
                 for word in tab:
-                    if word not in useless_words:
+                    if word not in stop_words:
                         ntab.append(word)
                 tab = ntab                        
 
