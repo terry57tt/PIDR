@@ -96,6 +96,31 @@ def means_and_std(nb_test):
     scores_meteor = np.zeros((5, 5, nb_test))
 
     for test in range(nb_test):
+        if((test == 5) or (test == 100) or (test == 250) or (test == 500) or (test == 750) or (test == 1000)):
+            print("loading"+str(test))
+            bleu, rouge, meteor = create_matrix(interpretation_id)
+            scores_bleu[:, :, test] = bleu
+            scores_rouge[:, :, test] = rouge
+            scores_meteor[:, :, test] = meteor
+
+            mean_bleu = np.mean(scores_bleu, axis=2)
+            std_bleu = np.std(scores_bleu, axis=2)
+            mean_rouge = np.mean(scores_rouge, axis=2)
+            std_rouge = np.std(scores_rouge, axis=2)
+            mean_meteor = np.mean(scores_meteor, axis=2)
+            std_meteor = np.std(scores_meteor, axis=2)
+
+            bleu, rouge, meteor = (mean_bleu, std_bleu), (mean_rouge, std_rouge), (mean_meteor, std_meteor)
+
+            plot_matrix(bleu[0], 'BLEU Score (mean)', 'plot/stat/bleu_score_mean_'+str(test)+'.png')
+            plot_matrix(bleu[1], 'BLEU Score (std)', 'plot/stat/bleu_score_std_'+str(test)+'.png')
+
+            plot_matrix(rouge[0], 'ROUGE Score (mean)', 'plot/stat/rouge_score_mean_'+str(test)+'.png')
+            plot_matrix(rouge[1], 'ROUGE Score (std)', 'plot/stat/rouge_score_std_'+str(test)+'.png')
+
+            plot_matrix(meteor[0], 'METEOR Score (mean)', 'plot/stat/meteor_score_mean_'+str(test)+'.png')
+            plot_matrix(meteor[1], 'METEOR Score (std)', 'plot/stat/meteor_score_std_'+str(test)+'.png')
+
         interpretation_id = get_random_interpretation_id()
         print(interpretation_id)
         bleu, rouge, meteor = create_matrix(interpretation_id)
@@ -112,7 +137,7 @@ def means_and_std(nb_test):
 
     return (mean_bleu, std_bleu), (mean_rouge, std_rouge), (mean_meteor, std_meteor)
 
-bleu, rouge, meteor = means_and_std(10)
+bleu, rouge, meteor = means_and_std(1010)
 
 plot_matrix(bleu[0], 'BLEU Score (mean)', 'plot/bleu_score_mean.png')
 plot_matrix(bleu[1], 'BLEU Score (std)', 'plot/bleu_score_std.png')
