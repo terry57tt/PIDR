@@ -65,21 +65,21 @@ def plot_diversity_matrix(matrix, title, filename):
     plt.close()
 
 # Création de la matrice de diversité pour bart_1
-diversity_matrix_bart_1 = create_diversity_matrix(bart_1[:100]) 
+diversity_matrix_bart_1 = create_diversity_matrix(bart_1[:50]) 
 plot_diversity_matrix(diversity_matrix_bart_1, 'Diversité des phrases - Bart_1', 'plot/diversity_matrix_bart_1.png')
 
 # Création de la matrice de diversité pour bart_2
-diversity_matrix_bart_2 = create_diversity_matrix(sentences['bart_2'][:100])
+diversity_matrix_bart_2 = create_diversity_matrix(sentences['bart_2'][:50])
 plot_diversity_matrix(diversity_matrix_bart_2, 'Diversité des phrases - Bart_2', 'plot/diversity_matrix_bart_2.png')
 
 # Création de la matrice de diversité pour t5_1
-diversity_matrix_t5_1 = create_diversity_matrix(sentences['t5_1'][:100])
+diversity_matrix_t5_1 = create_diversity_matrix(sentences['t5_1'][:50])
 plot_diversity_matrix(diversity_matrix_t5_1, 'Diversité des phrases - T5_1', 'plot/diversity_matrix_t5_1.png')
 
 # Création de la matrice de diversité pour t5_2
-diversity_matrix_t5_2 = create_diversity_matrix(sentences['t5_2'][:100])
+diversity_matrix_t5_2 = create_diversity_matrix(sentences['t5_2'][:50])
 plot_diversity_matrix(diversity_matrix_t5_2, 'Diversité des phrases - T5_2', 'plot/diversity_matrix_t5_2.png')
 
 # Création de la matrice de diversité pour FST
-diversity_matrix_FST = create_diversity_matrix(sentences['FST'][:100])
+diversity_matrix_FST = create_diversity_matrix(sentences['FST'][:50])
 plot_diversity_matrix(diversity_matrix_FST, 'Diversité des phrases - FST', 'plot/diversity_matrix_FST.png')
