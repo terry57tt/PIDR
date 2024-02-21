@@ -13,12 +13,13 @@ nltk.download('stopwords')
 
 # Read the CSV file
 X = pd.read_csv('data/captions.csv')
-X = X[:100]
+
+# Take a random sample of 100 sentences
+X_sample = X.sample(n=100, random_state=42)
 
 # Preprocess each caption
 preprocessed_captions = []
-for sentence in X['caption']:
-
+for sentence in X_sample['caption']:
     # Tokenization
     words = word_tokenize(sentence)
 
@@ -46,5 +47,11 @@ tfidf_matrix = tfidf_vectorizer.fit_transform(preprocessed_captions)
 # Hierarchical clustering
 plt.figure(figsize=(8, 8))
 plt.title('Visualizing the data')
-dendrogram = shc.dendrogram(shc.linkage(tfidf_matrix.toarray(), method='ward'))
+
+# Combine creator's name with the id for labeling
+labels = [f"{id} - {creator}" for id, creator in zip( X_sample['id'], X_sample['createur'])]
+
+# Plot dendrogram
+dendrogram = shc.dendrogram(shc.linkage(tfidf_matrix.toarray(), method='ward'), labels=labels, orientation='right')
+
 plt.show()
