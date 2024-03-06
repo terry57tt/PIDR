@@ -54,6 +54,24 @@ t5_1 = sentences['t5_1']
 t5_2 = sentences['t5_2']
 FST_sentence = sentences['FST'] 
 
+# Calcul de la longueur moyenne des phrases pour chaque créateur
+
+def average_sentence_length(sentences):
+    return sum(len(sentence.split()) for sentence in sentences) / len(sentences)
+
+average_sentence_length_bart_1 = average_sentence_length(bart_1)
+average_sentence_length_bart_2 = average_sentence_length(bart_2)
+average_sentence_length_t5_1 = average_sentence_length(t5_1)
+average_sentence_length_t5_2 = average_sentence_length(t5_2)
+average_sentence_length_FST = average_sentence_length(FST_sentence)
+
+print("Average length of sentences in BART_1 : " + str(average_sentence_length_bart_1))
+print("Average length of sentences in BART_2 : " + str(average_sentence_length_bart_2))
+print("Average length of sentences in T5_1 : " + str(average_sentence_length_t5_1))
+print("Average length of sentences in T5_2 : " + str(average_sentence_length_t5_2))
+print("Average length of sentences in FST : " + str(average_sentence_length_FST))
+
+
 def plot_diversity_matrix(matrix, title, filename):
     plt.figure(figsize=(10, 8))
     plt.imshow(matrix, cmap='viridis', interpolation='nearest')
@@ -64,22 +82,51 @@ def plot_diversity_matrix(matrix, title, filename):
     plt.savefig(filename)
     plt.close()
 
+def calculer_score_rouge_moyen(matrix):
+    moyenne = 0
+    for i in range(len(matrix)):
+        for j in range(len(matrix)):
+            if i != j:
+                moyenne += matrix[i][j]
+    return moyenne / (len(matrix) * (len(matrix) - 1))
+
+def calculer_ecart_type(matrix):
+    moyenne = calculer_score_rouge_moyen(matrix)
+    somme = 0
+    for i in range(len(matrix)):
+        for j in range(len(matrix)):
+            if i != j:
+                somme += (matrix[i][j] - moyenne) ** 2
+    return (somme / (len(matrix) * (len(matrix) - 1))) ** 0.5
+
 # Création de la matrice de diversité pour bart_1
-diversity_matrix_bart_1 = create_diversity_matrix(bart_1[:50]) 
+bart_1_selected_sentences = random.sample(bart_1, 75)
+diversity_matrix_bart_1 = create_diversity_matrix(bart_1_selected_sentences) 
 plot_diversity_matrix(diversity_matrix_bart_1, 'Diversité des phrases - Bart_1', 'plot/diversity_matrix_bart_1.png')
+#Moyenne des scores ROUGE et écart type (sans compter les coeff diagonaux de la matrice)
+print("Moyenne des scores ROUGE pour Bart_1 : " + str(calculer_score_rouge_moyen(diversity_matrix_bart_1)))
+
 
 # Création de la matrice de diversité pour bart_2
-diversity_matrix_bart_2 = create_diversity_matrix(sentences['bart_2'][:50])
+bart_2_selected_sentences = random.sample(bart_2, 75)
+diversity_matrix_bart_2 = create_diversity_matrix(bart_2_selected_sentences)
 plot_diversity_matrix(diversity_matrix_bart_2, 'Diversité des phrases - Bart_2', 'plot/diversity_matrix_bart_2.png')
+print("Moyenne des scores ROUGE pour Bart_2 : " + str(calculer_score_rouge_moyen(diversity_matrix_bart_2))) 
 
 # Création de la matrice de diversité pour t5_1
-diversity_matrix_t5_1 = create_diversity_matrix(sentences['t5_1'][:50])
+t5_1_selected_sentences = random.sample(t5_1, 75)
+diversity_matrix_t5_1 = create_diversity_matrix(t5_1_selected_sentences)
 plot_diversity_matrix(diversity_matrix_t5_1, 'Diversité des phrases - T5_1', 'plot/diversity_matrix_t5_1.png')
+print("Moyenne des scores ROUGE pour T5_1 : " + str(calculer_score_rouge_moyen(diversity_matrix_t5_1)))
 
 # Création de la matrice de diversité pour t5_2
-diversity_matrix_t5_2 = create_diversity_matrix(sentences['t5_2'][:50])
+t5_2_selected_sentences = random.sample(t5_2, 75)
+diversity_matrix_t5_2 = create_diversity_matrix(t5_2_selected_sentences)
 plot_diversity_matrix(diversity_matrix_t5_2, 'Diversité des phrases - T5_2', 'plot/diversity_matrix_t5_2.png')
+print("Moyenne des scores ROUGE pour T5_2 : " + str(calculer_score_rouge_moyen(diversity_matrix_t5_2)))
 
 # Création de la matrice de diversité pour FST
-diversity_matrix_FST = create_diversity_matrix(sentences['FST'][:50])
+FST_sentence = random.sample(FST_sentence, 75)
+diversity_matrix_FST = create_diversity_matrix(FST_sentence)
 plot_diversity_matrix(diversity_matrix_FST, 'Diversité des phrases - FST', 'plot/diversity_matrix_FST.png')
+print("Moyenne des scores ROUGE pour FST : " + str(calculer_score_rouge_moyen(diversity_matrix_FST)))
