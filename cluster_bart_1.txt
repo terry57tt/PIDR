@@ -1,0 +1,156 @@
+Cluster 1:
+Phrase: Black and white painting of a man being killed is very creepy
+Phrase: Painting makes me feel confused because I do not know what the artist is trying to convey
+Phrase: Painting is boring because the colors are muted and dull
+Phrase: People in the picture look like they are being tortured by a demon
+Phrase: Woman looks like she is in pain and the man on the left seems to be trying to help her
+Phrase: Painting makes me feel confused because I do not know what it is supposed to be
+Phrase: Painting is very detailed and I like the contrast between the white horse and the rest of the image
+Phrase: Painting is boring because it looks like a child's drawing
+Phrase: Scene is calming and the colors are soothing
+Phrase: Painting makes me feel confused because I do not know what it is supposed to be
+Phrase: Angelic scene with a lot of detail and depth to it
+Phrase: Painting makes me feel confused because I do not know what the artist is trying to convey
+Phrase: Black and white is very scary
+Phrase: Painting makes me feel confused because I do not know what the artist is trying to convey
+Phrase: Black and white is very scary
+Phrase: Picture is boring and lacks details in the image
+Phrase: Painting makes me feel confused because it looks like a child's drawing and I do not know what is going on
+Phrase: Painting makes me feel confused because I do not know what the artist is trying to convey
+Phrase: Man looks like he is enjoying himself playing with his dog
+Phrase: Painting is very detailed and the colors are so bright it makes me want to be there
+Phrase: Angels are flying over the people in a holy scene
+Phrase: Painting is boring because the colors are muted and dull
+Phrase: Painting is boring and lacks details in the image
+Phrase: Painting makes me feel confused because I do not know what it is supposed to be
+Phrase: Painting makes me feel confused because I do not know what the artist is trying to convey
+Phrase: Painting is very detailed and the colors are so bright that it makes me feel happy
+Phrase: Painting is very detailed and the colors are so bright it makes me want to be there
+Phrase: Painting is boring and lacks details in the image
+Phrase: Woman is relaxing on the couch with her dog
+Phrase: Women are having a good time playing with each other
+Phrase: Painting makes me feel confused because I do not know what the picture is trying to convey
+Phrase: Painting is boring and lacks details in the image
+Phrase: Painting makes me feel confused because I do not know what it is supposed to be
+Phrase: Painting is boring and lacks color
+Phrase: Painting makes me feel confused because I do not know what it is supposed to be
+Phrase: Painting is very detailed and I like the contrast between the white horse and the rest of the image
+Phrase: Angelic scene with a lot of detail and depth to it
+Phrase: Black and white is very scary
+Phrase: Painting makes me feel confused because I do not know what the artist is trying to convey
+Phrase: Painting makes me feel confused because I do not know what the artist is trying to convey
+Phrase: Painting makes me feel confused because I do not know what the artist is trying to convey
+Phrase: Colors are very vibrant and the lines in the background make it look like a photograph
+Phrase: Woman looks like she is relaxing on a couch with her dog
+Phrase: Picture is boring and boring it just looks like a bunch of random shapes
+Phrase: Painting makes me feel confused because I do not know what it is supposed to be
+Phrase: Woman looks like she is relaxing on a couch with her dog
+Phrase: Painting is boring because the colors are muted and dull
+Phrase: Black and white painting of a man with a sword in his hand looks like he is being killed
+Phrase: Man looks like he is enjoying himself playing with his dog
+Phrase: Painting is boring because it is just a bunch of lines and colors
+
+Cluster 2:
+Phrase: Scene is peaceful and relaxing the colors are calming
+Phrase: Colors are calming and relaxing to look at
+Phrase: Colors are calming and the shapes look like they are relaxing
+Phrase: Colors are calming and the scene is peaceful
+Phrase: Painting makes me feel confused because it looks like a child's drawing and I do not know what the child is doing
+Phrase: Colors are calming and relaxing
+Phrase: Colors are calming and the shapes look like they are relaxing
+Phrase: Scene is peaceful and the colors are calming
+Phrase: Abstract painting of a woman in a white dress with her hands on the desk
+Phrase: Scene is very calming and relaxing to look at
+Phrase: Scene is peaceful and the colors are calming
+Phrase: Scene is very calming and relaxing
+Phrase: Colors are calming and the scene is peaceful
+Phrase: Colors are calming and the scene is peaceful
+Phrase: Colors are calming and the scene is peaceful
+Phrase: Dark colors and the people in the foreground look like they are on their deathbed
+Phrase: Colors are calming and the scene is peaceful
+Phrase: Scene is peaceful and relaxing the colors are calming
+Phrase: Colors are calming and relaxing to look at
+Phrase: Colors are calming and relaxing
+Phrase: Painting of a woman with her hands on the tablecloth
+Phrase: Colors are calming and relaxing to look at
+Phrase: Animals are enjoying themselves in nature
+Phrase: Scene is peaceful and the colors are calming
+Phrase: Colors are calming and the scene is peaceful
+Phrase: Colors are calming and relaxing to look at
+Phrase: Colors are calming and the scene is peaceful
+Phrase: Painting of a woman with her hands on the cross is very calming
+Phrase: Colors are calming and the shapes look like they are relaxing
+Phrase: Colors are calming and the scene is peaceful
+Phrase: Colors are calming and relaxing
+Phrase: Colors are calming and the scene is peaceful
+Phrase: Colors are calming and relaxing
+Phrase: Colors are calming and the scene is peaceful
+Phrase: Colors are calming and relaxing
+Phrase: Animals are enjoying themselves in the field
+Phrase: Colors are calming and relaxing
+Phrase: Colors are calming and relaxing to look at
+Phrase: Scene is peaceful and the colors are calming
+Phrase: Painting is very abstract and has a lot of shapes that are interesting to look at
+Phrase: Scene is peaceful and the colors are calming
+Phrase: Colors are calming and the scene is peaceful
+Phrase: Colors are calming and the scene is peaceful
+Phrase: Scene is peaceful and the colors are calming
+Phrase: Colors are calming and the scene is peaceful
+Phrase: Colors are calming and the scene is peaceful
+Phrase: Colors are calming and relaxing
+Phrase: Colors are calming and relaxing
+Phrase: Colors are calming and the shapes look like they are relaxing
+Phrase: Colors are calming and relaxing
+
+Cluster 3:
+Phrase: Black and white painting of a man being killed by an evil creature
+Phrase: Man looks like he is in pain and the woman looks scared of him
+Phrase: Woman looks like she is in pain and the man on the left seems to be trying to help her
+Phrase: Painting is very detailed and I like the contrast between the black and white
+Phrase: Tree branches look like they are glowing since it is glowing
+Phrase: Mountains in the background look like they are glowing with sunlight
+Phrase: Black and white painting of a man being killed by an evil creature
+Phrase: Watercolor painting of a lake in the middle of the day
+Phrase: Black and white painting of a bird with its wings in the air
+Phrase: Painting is very detailed and I like the contrast between the black and white
+Phrase: Painting is boring and the colors are bland
+Phrase: Black and white painting of a tree trunk in the middle of the night
+Phrase: Painting is very detailed and I like the contrast between the black and white
+Phrase: Painting is very detailed and the people are all gathered together to watch the sunset
+Phrase: Painting is boring because it is just a bunch of random shapes that do not make me feel much
+Phrase: Woman looks like she is in pain or suffering
+Phrase: Woman looks like she is in pain and the man on the left seems to be trying to help her
+Phrase: Woman is relaxing on the couch with her dog
+Phrase: Man looks like he is in pain and the woman looks scared of him
+Phrase: Black and white painting of a man being killed by an evil creature
+Phrase: Black and white painting of a snake with its red stripes looks like blood
+Phrase: Painting is very detailed and I like the contrast between the black and white
+Phrase: Black and white painting looks like a scary place to be
+Phrase: Black and white painting looks like a scary place to be
+Phrase: Black and white painting of a man being attacked by a demon
+Phrase: Painting is very detailed and I like the contrast between the white flowers and the rest of the image
+Phrase: Man looks like he is being attacked by a demon
+Phrase: Black and white painting looks like a scary place to be
+Phrase: Black and white painting looks like a scary place to be
+Phrase: Black and white painting of a bird with its wings in the sky looks like it is glowing
+Phrase: Mountains in the background look like a nice place to be
+Phrase: Black and white painting of a bird with its wings in the air looks like it is about to fall
+Phrase: Black and white painting of a man with a sword in his hand looks like he is holding a weapon
+Phrase: Black and white painting of a man being killed by an evil creature
+Phrase: Mountains look like they are melting into the water
+Phrase: Black and white painting of a bird with its wings in the air looks like it is about to fall
+Phrase: Mountains in the background look like they are glowing with sunlight
+Phrase: Painting is very detailed and I like the contrast between the black and white
+Phrase: Mountains in the background look like they are glowing with sunlight
+Phrase: Painting is very detailed and I like the contrast between the black and white
+Phrase: Black and white painting of a man being killed by an evil creature
+Phrase: Man looks like he is being tortured by a demon
+Phrase: Man looks like he is being tortured by a demon
+Phrase: Woman is relaxing on the couch with her dog
+Phrase: Black and white painting of a bird with its wings on it is head
+Phrase: Black and white painting looks like a scary place to be
+Phrase: Tree branches look like they are glowing since it is glowing
+Phrase: Woman is wearing a white dress and she is looking at something in awe of it
+Phrase: Horse looks like it is about to hurt someone
+Phrase: Black and white painting looks like a scary place to be
+

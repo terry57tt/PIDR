@@ -1,0 +1,156 @@
+Cluster 1:
+Phrase: I feel fear because it looks like a storm is coming
+Phrase: I like the colors and the way they are painted
+Phrase: I feel fear because it looks like a storm is coming
+Phrase: I like the bright colors of the fruit and how it is painted
+Phrase: I am afraid that the man is going to kill someone
+Phrase: I am afraid that the man is going to kill someone
+Phrase: I feel fear because the angels are going to attack the man
+Phrase: I like the colors and the way they are painted
+Phrase: I am afraid that the man is going to kill someone
+Phrase: I like the colors and the way the people are looking at each other
+Phrase: I like the way the horse is standing in the distance
+Phrase: I am afraid that the man is going to kill someone
+Phrase: I feel fear because it looks like a monster
+Phrase: I feel fear because it looks like a storm is coming
+Phrase: I am afraid that this person is going to kill someone
+Phrase: I like the way the horse is standing on the ground
+Phrase: I feel fear because it looks like a monster in the middle of a battle
+Phrase: I am afraid that the person is going to kill someone
+Phrase: I like the way the woman is sitting in the chair
+Phrase: I like the colors and the way they are painted
+Phrase: I feel fear because the man looks like he is about to kill someone
+Phrase: I feel fear because it looks like a monster in the middle of a battle
+Phrase: I am afraid that the people are going to kill someone
+Phrase: I am afraid that the man is going to kill someone
+Phrase: I am afraid that the snake is going to kill someone
+Phrase: I am afraid that this person is going to kill someone
+Phrase: I am afraid that the people are going to kill someone
+Phrase: I like the colors and the contrast of the orange and yellow
+Phrase: I like the contrast of the blue and green colors in this painting
+Phrase: I am afraid that the snakes are going to kill someone
+Phrase: I am afraid that the man is going to kill someone
+Phrase: I am afraid that the fish are going to kill them
+Phrase: I like the colors and the way they are painted
+Phrase: I like the colors and the way the fish is floating
+Phrase: I like the way the colors are painted
+Phrase: I feel fear because it looks like a storm is coming
+Phrase: I feel fear because the man looks like he is about to kill someone
+Phrase: I feel fear because the horse is being attacked by the man
+Phrase: I am afraid that the man is going to kill someone
+Phrase: I like the colors and the way the animals are painted
+Phrase: I am afraid that the man is going to kill someone
+Phrase: I like the way the bird is holding it
+Phrase: I am afraid that this is a monster
+Phrase: I feel sad for the people in the painting
+Phrase: I am afraid that the man is going to kill someone
+Phrase: I like the way the man is standing in front of him
+Phrase: I am afraid that the man is going to kill someone
+Phrase: I am afraid that the man is going to kill someone
+Phrase: I am afraid that the snake is going to kill someone
+Phrase: I like the colors and the way they are painted
+
+Cluster 2:
+Phrase: I like the way the colors blend together
+Phrase: I love the colors and the way they are painted
+Phrase: I like the way the colors are blended together
+Phrase: I like the colors and the way they blend together
+Phrase: I like the colors and the way the trees are painted
+Phrase: I like the colors and the way they are drawn
+Phrase: I love the detail in the buildings and how they are painted
+Phrase: I like the colors and the way the people are dressed
+Phrase: I like the colors and the way the people are dressed
+Phrase: I like the way the colors are blended together
+Phrase: I love the way the colors are blended together
+Phrase: I am excited by the way the people are dressed up
+Phrase: I like the way the colors are blended together
+Phrase: I love the colors and the way they are painted
+Phrase: I love the colors and the way the artist is painting it
+Phrase: I love the colors and the way the woman is standing in the forest
+Phrase: I like the colors and the way the trees are painted
+Phrase: I love the way the colors are blended together
+Phrase: I like the colors and the way they are drawn
+Phrase: I love the detail in the trees and how they are painted
+Phrase: I like the colors and the way the painting is depicted
+Phrase: I like the dark colors of the trees and the way they blend together
+Phrase: I love the colors and the way they are painted
+Phrase: I love the colors and the way they are painted
+Phrase: I like the colors and the way the people are dressed
+Phrase: I love the colors and the way they are drawn
+Phrase: I like the colors and the way they are drawn
+Phrase: I like the colors and the way they are drawn
+Phrase: I love the colors and the way they are drawn
+Phrase: I love the colors and the way they are painted
+Phrase: I love the detail in the figures and how they are all dressed up
+Phrase: I like the colors and the contrast of the trees in the sky
+Phrase: I like the colors and the way they blend together
+Phrase: I love the detail in this painting it looks like a picture of a child
+Phrase: I like the colors and the way they are drawn
+Phrase: I like the colors and the way the painting is painted makes it look like a peaceful place to be
+Phrase: I love the colors and the way they are painted
+Phrase: I love the colors and the way they are painted
+Phrase: I like the way the colors are drawn
+Phrase: I like the colors and the way the artist is working
+Phrase: I like the colors and the way they blend together
+Phrase: I like the colors and the way they blend together
+Phrase: I like the way the colors are blended together
+Phrase: I like the bright colors and the way they are painted
+Phrase: I like the way the artist painted this painting
+Phrase: I like the colors and the way they blend together
+Phrase: I love the colors and the way they are drawn
+Phrase: I like the colors and the way the trees are painted
+Phrase: I like the colors and the way they blend together
+Phrase: I like the way the artist painted this
+
+Cluster 3:
+Phrase: I like the colors and shapes in this painting
+Phrase: I am not sure what this is supposed to be
+Phrase: I am not sure what this is supposed to be
+Phrase: I am not sure what this painting is supposed to be
+Phrase: I love the colors and shapes in this painting
+Phrase: I am not sure what this painting is supposed to be but it looks like a picture of a rabbit
+Phrase: I am not sure what this is supposed to be
+Phrase: I love the colors and shapes in this painting
+Phrase: I am confused by this painting because it looks like a tree in the middle of nowhere
+Phrase: I am not sure what this painting is supposed to be
+Phrase: I am confused by this painting because it looks like a piece of paper
+Phrase: I feel fear because of the dark colors
+Phrase: I am not sure what this painting is supposed to be
+Phrase: I like the colors and the way the flowers are painted
+Phrase: I am not sure what this is supposed to be
+Phrase: I am confused by the lack of detail in this painting
+Phrase: I am not sure what this painting is supposed to be
+Phrase: I am not sure what this painting is supposed to be
+Phrase: I am not sure what this painting is supposed to be
+Phrase: I am not sure what this is supposed to be
+Phrase: I feel fear because it looks like a monster is about to attack someone
+Phrase: I am not sure what this painting is supposed to be
+Phrase: I am confused by this painting because it looks like a tree in the middle of nowhere
+Phrase: I love the colors and shapes in this painting
+Phrase: I am confused by this painting because it looks like a picture of a house in the middle of nowhere
+Phrase: I am not sure what this painting is supposed to be
+Phrase: I am not sure what this painting is supposed to be
+Phrase: I am not sure what this painting is supposed to be
+Phrase: I am not sure what this painting is supposed to be
+Phrase: I am confused as to what this is supposed to be
+Phrase: I am not sure what this painting is supposed to be
+Phrase: I am not sure what this is supposed to be
+Phrase: I am not sure what this painting is supposed to be
+Phrase: I am confused by this painting because it looks like a bunch of random shapes
+Phrase: I am not sure what this painting is supposed to be
+Phrase: I am not sure what this is supposed to be
+Phrase: I am confused by this painting because it looks like a picture of a car
+Phrase: I am not sure what this painting is supposed to be
+Phrase: I am confused by this painting because it looks like a picture of a movie
+Phrase: I am not sure what this painting is supposed to be
+Phrase: I am not sure what this is supposed to be
+Phrase: I am confused by this painting because it looks like a picture from a movie
+Phrase: I love the colors and shapes
+Phrase: I am not sure what this painting is supposed to be
+Phrase: I am not sure what this painting is supposed to be
+Phrase: I am not sure what this painting is supposed to be
+Phrase: I am not sure what this painting is supposed to be
+Phrase: I am not sure what this painting is supposed to be
+Phrase: I like the colors and the way the people are looking at the trees
+Phrase: I love the colors and shapes in this painting
+

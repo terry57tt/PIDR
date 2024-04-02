@@ -1,0 +1,156 @@
+Cluster 1:
+Phrase: i'm not sure what's going on here
+Phrase: i'm not sure what's going on here
+Phrase: i'm not sure what's going on here
+Phrase: the way the elephant is looking&GREY#DARKGREY#GREY#GREY#DARKGREY makes me happy
+Phrase: it's nice the way the willow tree is looking&TAN#TAN#BROWN#DARKGREY#DARKGREY
+Phrase: i'm not sure what's going on here
+Phrase: i really like how the forest is painted&GREY#DARKGREY#LIGHTGREY#DARKGREY#BROWN
+Phrase: i'm confused about this artwork
+Phrase: i'm confused about this artwork
+Phrase: how the trees are painted&TAN#LIGHTGREY#TAN#BROWN#GREY is pleasing
+Phrase: how the sunflower is painted&LIGHTGREY#GREY#DARKGREY#GREY#LIGHTGREY makes me content
+Phrase: i'm confused about this artwork
+Phrase: i'm not sure what's going on here
+Phrase: how the aquarium fish is looking&LIGHTGREY#GREY#DARKGREY#TAN#GREY makes me content
+Phrase: the way the chair is looking&LIGHTGREY#LIGHTGREY#DARKGREY#GREY#GREY makes me happy
+Phrase: how the wardrobe is painted&DARKGREY#GREY#LIGHTGREY#BROWN#DARKGREY makes me content
+Phrase: the way the cloud is looking&LIGHTGREY#LIGHTGREY#GREY#GREY#TAN pleasing
+Phrase: the way the butterfly is painted&LIGHTGREY#GREY#DARKGREY#GREY#GREY makes me content
+Phrase: i'm confused about this artwork
+Phrase: i'm not sure what's going on here
+Phrase: the way the wardrobe is looking&TAN#LIGHTGREY#DARKGREY#BROWN#DARKGREY makes me happy
+Phrase: it's nice the way the television is painted&LIGHTGREY#GREY#DARKGREY#GREY#GREY
+Phrase: it's nice how the willow tree is painted&GOLD#TAN#COPPER#DARKRED#TAN
+Phrase: how the camel is painted&BEIGE#LIGHTGREY#TAN#GREY#DARKGREY makes me content
+Phrase: the way the plate is looking&BROWN#LIGHTGREY#DARKGREY#TAN#DARKGREY makes me content
+Phrase: i'm confused about this artwork
+Phrase: i'm not sure what's going on here
+Phrase: i'm confused about this artwork
+Phrase: i'm not sure what's going on here
+Phrase: the way the willow tree is looking&GOLD#TAN#COPPER#TAN#DARKRED makes me happy
+Phrase: the way the oak tree is painted&LIGHTGREY#GREY#GREY#LIGHTGREY#DARKGREY makes me content
+Phrase: the way the bed is looking&DARKGREY#LIGHTGREY#LIGHTGREY#GREY#GREY makes me happy
+Phrase: i'm not sure what's going on here
+Phrase: i'm confused about this artwork
+Phrase: i'm confused about this artwork
+Phrase: how the boy is painted&GREY#GREY#GREY#DARKGREY#NAVY makes me happy
+Phrase: i'm not sure what's going on here
+Phrase: i'm confused about this artwork
+Phrase: the way the chair is painted&LIGHTGREY#AZURE#GREY#DARKGREY#BROWN pleasing
+Phrase: how the snake is painted&IVORY#DARKGREY#DARKGREY#BROWN#TAN makes me content
+Phrase: it's nice the way the elephant is painted&LIGHTGREY#LIGHTGREY#GREY#DARKGREY#GREY
+Phrase: how the cattle is painted&LIGHTGREY#DARKGREY#GREY#GREY#TAN makes me content
+Phrase: how the lawn mower is painted&LIGHTGREY#DARKGREY#GREY#GREY#GREY makes me content
+Phrase: the way the dolphin is looking&GREY#GREY#GREY#GREY#DARKGREY makes me happy
+Phrase: i'm confused about this artwork
+Phrase: i'm not sure what's going on here
+Phrase: i'm confused about this artwork
+Phrase: i'm not sure what's going on here
+Phrase: the way the oak tree is painted&LIGHTGREY#GREY#GREY#LIGHTGREY#DARKGREY makes me content
+Phrase: i'm confused about this artwork
+
+Cluster 2:
+Phrase: i don't get what the artist wanted to say here
+Phrase: &IVORY#DARKGREY#DARKGREY#BROWN#TAN amazing
+Phrase: how the skunk is looking&GREY#TAN#TAN#DARKGREY#GREY amazing
+Phrase: the way the television is looking&LIGHTGREY#TAN#BROWN#DARKGREY#DARKGREY pleasing
+Phrase: i don't get what the artist wanted to say here
+Phrase: how the dinosaur is looking&DARKGREY#DARKGREY#GREY#TAN#DARKGREY makes me scared
+Phrase: how the woman is looking&DARKGREY#GREY#GREY#WHITE#LIGHTGREY makes me scared
+Phrase: the way the elephant is looking&GREY#DARKGREY#GREY#GREY#LIGHTGREY is amazing
+Phrase: i don't get what the artist wanted to say here
+Phrase: the way the forest is painted&GREY#LIGHTGREY#GREY#DARKGREY#GREY makes me scared
+Phrase: the way the woman is painted&DARKGREY#LIGHTGREY#GREY#GREY#GREY makes me content
+Phrase: how the bear is painted&LIGHTGREY#GREY#GREY#DARKGREY#DARKGREY makes me scared
+Phrase: how the cattle is painted&GREY#GREY#DARKGREY#LIGHTGREY#BROWN makes me scared
+Phrase: &DARKGREY#GREY#LIGHTGREY#GREY#GREY scary
+Phrase: the way the ray is looking&DARKGREY#DARKGREY#GREY#TAN#DARKGREY is scary
+Phrase: i don't get what the artist wanted to say here
+Phrase: the way the willow tree is painted&TAN#GREY#TAN#DARKGREY#GREY is pleasing
+Phrase: &LIGHTGREY#GREY#GREY#LIGHTGREY#DARKGREY pleasing
+Phrase: i don't get what the artist wanted to say here
+Phrase: i don't get what the artist wanted to say here
+Phrase: i don't get what the artist wanted to say here
+Phrase: i don't get what the artist wanted to say here
+Phrase: i'm scared because of how the lawn mower is painted&WHITE#GREY#DARKGREY#DARKGREY#NAVY
+Phrase: &TAN#GREY#DARKGREY#DARKGREY#DARKGREY pleasing
+Phrase: how the plate is looking&LIGHTGREY#DARKGREY#GREY#DARKGREY#GREY makes me scared
+Phrase: i don't get what the artist wanted to say here
+Phrase: how the streetcar is looking&GREY#DARKGREY#LIGHTGREY#DARKGREY#DARKGREY makes me amazed
+Phrase: the way the tractor is looking&LIGHTGREY#GREY#GREY#DARKGREY#TAN is amazing
+Phrase: the way the chair is painted&WHITE#TAN#GREY#DARKGREY#GREY makes me in awe
+Phrase: how the elephant is looking&GREY#GREY#LIGHTGREY#DARKGREY#GREY makes me amazed
+Phrase: the artwork is somewhat interesting
+Phrase: how the woman is looking&TAN#GREY#DARKGREY#DARKGREY#DARKGREY is pleasing
+Phrase: how the elephant is painted&LIGHTGREY#GREY#GREY#DARKGREY#DARKGREY makes me scared
+Phrase: &GREY#DARKGREY#DARKGREY#BROWN#DARKGREY pleasing
+Phrase: the artwork is somewhat interesting
+Phrase: the artwork is somewhat interesting
+Phrase: it's scary the way the ray is looking&DARKGREY#DARKGREY#DARKGREY#GREY#GREY
+Phrase: i don't get what the artist wanted to say here
+Phrase: the way the skyscraper is looking&TAN#TAN#BROWN#GREY#GREY is pleasing
+Phrase: how the butterfly is painted&GREY#GREY#GREY#TAN#DARKGREY makes me amazed
+Phrase: the artwork is somewhat interesting
+Phrase: how the baby is looking&GREY#GREY#DARKGREY#LIGHTGREY#DARKGREY makes me fearful
+Phrase: i don't get what the artist wanted to say here
+Phrase: the way the kangaroo is painted&GREY#GREY#DARKGREY#DARKGREY#DARKGREY makes me scared
+Phrase: i'm scared because of how the wardrobe is painted&DARKGREY#LIGHTGREY#DARKGREY#GREY#GREY
+Phrase: the way the plate is painted&BLACK#LIGHTGREY#GREY#MAROON#TAN silly
+Phrase: i don't get what the artist wanted to say here
+Phrase: how the train is looking&LIGHTGREY#GREY#GREY#BEIGE#GREY pleasing
+Phrase: i don't get what the artist wanted to say here
+Phrase: how the elephant is painted&GREY#GREY#TAN#DARKGREY#TAN makes me scared
+
+Cluster 3:
+Phrase: how the snake is painted&LIGHTGREY#DARKGREY#TAN#GREY#BROWN is scary
+Phrase: the way the bear is looking&DARKGREY#DARKGREY#GREY#DARKGREY#DARKGREY is creepy
+Phrase: the way the bear is looking&DARKGREY#LIGHTGREY#GREY#GREY#DARKGREY scary
+Phrase: the way the dolphin is looking&DARKGREY#LIGHTGREY#GREY#DARKGREY#BROWN is creepy
+Phrase: how the chair is looking&TAN#GREY#DARKGREY#DARKGREY#DARKGREY is pleasing
+Phrase: how the plate is painted&DARKGREY#GREY#LIGHTGREY#GREY#GREY makes me in awe
+Phrase: it's scary the way the plate is painted&GREY#GREY#DARKGREY#DARKGREY#DARKGREY
+Phrase: the way the forest is painted&LIGHTGREY#TAN#GREY#DARKGREY#GREY pleasing
+Phrase: i love the way the elephant is painted&GREY#LIGHTGREY#GREY#DARKGREY#TAN
+Phrase: the way the plain is painted&LIGHTGREY#GREY#GREY#GREY#GREY pleasing
+Phrase: how the plate is looking&DARKGREY#GREY#GREY#LIGHTGREY#LIGHTGREY makes me in awe
+Phrase: how the bed is looking&LIGHTGREY#LIGHTGREY#GREY#GREY#DARKGREY creepy
+Phrase: it's scary the way the bear is looking&DARKGREY#DARKGREY#GREY#TAN#DARKGREY
+Phrase: how the bed is looking&DARKGREY#GREY#DARKGREY#GREY#DARKGREY is creepy
+Phrase: how the elephant is painted&GREY#LIGHTGREY#TAN#GREY#GREY makes me in awe
+Phrase: the way the oak tree is looking&LIGHTGREY#GREY#GREY#LIGHTGREY#DARKGREY is pleasing
+Phrase: how the butterfly is painted&GREY#LIGHTGREY#GREY#DARKGREY#BROWN makes me in awe
+Phrase: how the skyscraper is looking&DARKGREY#LIGHTGREY#GREY#GREY#BROWN creepy
+Phrase: how the snake is looking&DARKGREY#LIGHTGREY#GREY#LIGHTGREY#GREY makes me happy
+Phrase: the way the cattle is looking&DARKGREY#LIGHTGREY#GREY#DARKGREY#GREY is creepy
+Phrase: the way the wardrobe is painted&BROWN#BROWN#BROWN#LIGHTGREY#KHAKI makes me in awe
+Phrase: how the elephant is looking&GREY#GREY#GREY#DARKGREY#LIGHTGREY makes me in awe
+Phrase: i love the way the plate is painted&LIGHTGREY#LIGHTGREY#GREY#TAN#GREY
+Phrase: the way the elephant is painted&GREY#GREY#DARKGREY#GREY#LIGHTGREY makes me in awe
+Phrase: the way the snake is looking&GREY#LIGHTGREY#DARKGREY#GREY#DARKGREY makes me amazed
+Phrase: how the worm is painted&LIGHTGREY#LIGHTGREY#GREY#DARKGREY#GREY pleasing
+Phrase: how the bear is looking&GREY#LIGHTGREY#GREY#DARKGREY#GREY is silly
+Phrase: i love the way the mountain is painted&DARKGREY#DARKGREY#GREY#GREY#DARKGREY
+Phrase: it's scary the way the plate is looking&DARKGREY#GREY#LIGHTGREY#GREY#GREY
+Phrase: the way the elephant is looking&LIGHTGREY#GREY#DARKGREY#GREY#DARKGREY silly
+Phrase: how the mountain is painted&DARKGREY#DARKGREY#GREY#TAN#DARKGREY creepy
+Phrase: the way the house is painted&DARKGREY#GREY#GREY#DARKGREY#LIGHTGREY makes me in awe
+Phrase: i love how the wardrobe is painted&LIGHTGREY#GREY#DARKGREY#DARKGREY#GREY
+Phrase: how the mountain is painted&DARKGREY#DARKGREY#DARKGREY#GREY#DARKGREY makes me amazed
+Phrase: i'm in awe of the way the mountain is painted&DARKGREY#DARKGREY#DARKGREY#GREY#DARKGREY
+Phrase: the way the butterfly is painted&LIGHTGREY#GREY#GREY#DARKGREY#GREY makes me in awe
+Phrase: how the snake is painted&LIGHTGREY#GREY#DARKGREY#GREY#LIGHTGREY makes me in awe
+Phrase: the way the oak tree is painted&LIGHTGREY#GREY#GREY#LIGHTGREY#DARKGREY pleasing
+Phrase: how the plate is painted&DARKGREY#GREY#DARKGREY#GREY#DARKGREY scary
+Phrase: the way the house is looking&GREY#LIGHTGREY#GREY#GREY#DARKGREY pleasing
+Phrase: how the plate is looking&LIGHTGREY#DARKGREY#GREY#GREY#GREY makes me in awe
+Phrase: i'm scared because of the way the mountain is painted&DARKGREY#GREY#DARKGREY#TAN#DARKGREY
+Phrase: the way the plate is looking&DARKGREY#GREY#GREY#DARKGREY#NAVY pleasing
+Phrase: the way the boy is looking&GREY#LIGHTGREY#GREY#DARKGREY#DARKGREY pleasing
+Phrase: the way the chair is painted&DARKGREY#DARKGREY#GREY#TAN#DARKGREY scary
+Phrase: how the plate is painted&GREY#GREY#LIGHTGREY#DARKGREY#TAN makes me in awe
+Phrase: how the plate is painted&BROWN#DARKGREY#LIGHTGREY#TAN#GREY pleasing
+Phrase: the way the cattle is painted&BROWN#GREY#GREY#BROWN#DARKGREY makes me in awe
+Phrase: i love the way the castle is looking&LIGHTGREY#GREY#TAN#GREY#DARKGREY
+Phrase: how the sea is looking&GREY#GREY#LIGHTGREY#GREY#GREY is pleasing
+

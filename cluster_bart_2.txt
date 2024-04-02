@@ -1,0 +1,156 @@
+Cluster 1:
+Phrase: Love the colors and the way the bird is drawn
+Phrase: Love the way the man is holding his chest as if he is in deep thought
+Phrase: Love the colors and the way the trees are painted
+Phrase: Lovely painting of a woman and her two birds in the air
+Phrase: Love the way the colors blend together in this painting it is amazing to look at
+Phrase: Love the way the trees are painted it is very peaceful
+Phrase: Love the colors and the detail in the flowers is amazing
+Phrase: Love the colors and the way they are painted makes it look like a nice day
+Phrase: Love the colors and the detail in the plants is amazing
+Phrase: Love the colors of the mountains and the water looks calm
+Phrase: Love the colors and the way they all blend together
+Phrase: Love the way the trees are painted it is very peaceful
+Phrase: Love the colors and the patterns on the cloth
+Phrase: Like the way the trees are painted it is very peaceful
+Phrase: Love the colors and the way the trees are painted
+Phrase: Love the colors and the way the flowers are painted
+Phrase: Love the colors and the way the horses are drawn makes it seem like they are moving
+Phrase: Like the colors and the way they all blend together makes it look like a dream
+Phrase: Love the colors and the way they all blend together
+Phrase: Love the colors and the way the trees are painted
+Phrase: Love the colors and the way they are blended with each other
+Phrase: Love the colors and the way the tree is painted
+Phrase: Love the detail in the building and the way it is painted
+Phrase: Love the colors and the way the flowers are painted
+Phrase: Love the colors and the way it is painted
+Phrase: Love the colors and the scene is very peaceful
+Phrase: Love the colors and the way the trees are painted
+Phrase: Love the colors and the way it is painted
+Phrase: Love the colors and the way the birds are flying in the sky
+Phrase: Love the colors and the way the mountains are painted
+Phrase: Love the way the tree is drawn and the colors are calming
+Phrase: Love the colors and the way the trees are painted
+Phrase: Love the colors and the way they are painted
+Phrase: Love the colors and the way the flowers are painted
+Phrase: Like the way the tree is drawn and the colors are muted
+Phrase: Love the colors and the way they all blend together
+Phrase: Like the way the woman is looking at the mirror
+Phrase: Looks like a storm is coming and the trees are blowing in fear
+Phrase: Love the colors and the way they are painted it is very calming
+Phrase: Love the way the trees are painted it is very peaceful
+Phrase: Love the colors and the way it is painted
+Phrase: Love the colors and the way they are painted
+Phrase: Love the colors and the way the horse is drawn makes it seem like they are very peaceful
+Phrase: Love the colors and the way the flowers are painted
+Phrase: Love the colors and the way the horse is drawn makes it seem like they are moving
+Phrase: Love the colors and the patterns on the bird's feathers
+Phrase: Love the colors and the patterns on the flowers
+Phrase: Love the colors and the way they are painted it is very calming
+Phrase: Love the colors and the scene is peaceful
+Phrase: Love the colors and the way the tree is painted
+
+Cluster 2:
+Phrase: Am amazed by the beauty of nature and how beautiful it is
+Phrase: Looks like a black and white painting with no color
+Phrase: Am amazed by the detail in this painting and the way the artist used shadows to capture the faces of the people
+Phrase: Am disappointed by the lack of details in the drawing and the lack to detail on the faces
+Phrase: Do not know what I am looking at but it looks like a bunch of people gathered for a picnic
+Phrase: Do not know what I am looking at it is just a bunch of random shapes and colors
+Phrase: Do not know what I am looking at but it looks like the artist is trying to tell a story of something important
+Phrase: Am amazed by the way the artist was able to capture the movement of the horses
+Phrase: Dont know what to think of this painting it is just a bunch of random shapes and colors
+Phrase: Amuses me because it looks like the man is wearing a white coat and he is naked
+Phrase: Am disappointed by the lack of details in the drawing and the lack on the faces
+Phrase: Do not know what is going on here but it looks like the man is in trouble
+Phrase: Love the colors and the detail in the drawing
+Phrase: Do not like the dark colors and the woman's expression is very serious
+Phrase: Love the colors and the shapes in this painting
+Phrase: Am curious as to what is behind the trees and why they do not have leaves on them
+Phrase: Like the way the woman is looking at the man's face
+Phrase: Love the colors and the way the man is looking at the woman's face makes it seem like he is very calm
+Phrase: Am curious as to what is going on in this painting and what it means
+Phrase: Am curious as to what is going on in this painting and what it means
+Phrase: Do not know what I am looking at but it looks like a child's drawing
+Phrase: Love the way the trees are painted it is amazing
+Phrase: Amuses me because it looks like a child's drawing and I do not know what to think of it
+Phrase: Looks like a storm is coming in and it is going to destroy everything else
+Phrase: Am amazed by the skill needed to paint this painting
+Phrase: Looks like a storm is coming and it is going to destroy the landscape
+Phrase: Am disappointed by the lack of details in the drawing and the lack to detail on the face
+Phrase: Am curious as to what is going on in this painting and what the words mean
+Phrase: Looks like a black and white painting with no face or eyes on it
+Phrase: Am disappointed by the lack of details in the painting and the lack to detail on the trees
+Phrase: Looks like he is going to hurt someone or hurt them
+Phrase: Am amazed by the detail of this painting it is amazing to look at
+Phrase: Am disappointed by the lack of details in the drawing and the lack to detail on the sculpture
+Phrase: Love the colors and the shapes in this painting
+Phrase: Looks like a storm is coming and it is going to destroy the landscape
+Phrase: Do not know what I am looking at it is just weird and confusing
+Phrase: Am disappointed by the lack of details in the drawing and the lack to detail on the faces
+Phrase: Am disappointed by the lack of details in the drawing and the lack on the faces
+Phrase: Do not know what to think of this painting but it looks like the people are mourning or crying
+Phrase: Am disappointed by the lack of details in the drawing and the lack to detail on the building
+Phrase: Do not know what I am looking at it is just a bunch of lines and nothing special
+Phrase: Am amazed by the way the artist was able to capture the movement of the horses
+Phrase: Do not know what I am looking at
+Phrase: Am amazed by the way the artist has captured the details of the man's muscles and hands
+Phrase: Love the colors and the shapes in this painting
+Phrase: Am curious as to what is going on in this drawing it looks like a sketch but I can not tell if that is a man or woman
+Phrase: Love the colors and the subject matter of this painting
+Phrase: Do not know what I am looking at but it looks like a bunch of people gathered for a party or something
+Phrase: Amuses me because I do not know what to think of this painting
+Phrase: Do not know what I am looking at but it looks like a bunch of random shapes and colors thrown together
+
+Cluster 3:
+Phrase: Love the colors and the texture of the trees
+Phrase: Love the colors and the animals in this painting
+Phrase: Looks like a ghost and I feel fear for the people in this painting
+Phrase: Am curious as to what the man is looking at
+Phrase: Am disappointed by the lack of details in the faces and body language of the people
+Phrase: Am curious as to what the man is up to and what he is doing
+Phrase: Am disappointed by the lack of details in the face and body language of the man
+Phrase: Looks like a ghost and I fear for the person who is going to hurt her
+Phrase: Looks like a ghost and I fear for the people in this painting
+Phrase: Am curious as to what is behind the tree and what it is supposed to be
+Phrase: Looks like a ghost and I fear for the person who is going to hurt her
+Phrase: Am curious as to what is going on in this painting and what the people are doing
+Phrase: Looks like a ghost and I fear for the people in this painting
+Phrase: Looks like a ghost and I fear for the people in this painting
+Phrase: Looks like a ghost and I fear for the people in this painting
+Phrase: Looks like a ghost and I feel fear for the person who is being tortured
+Phrase: Looks like a ghost and I fear for the people in this painting
+Phrase: Love the colors and the way the animals are drawn makes it seem like a peaceful scene
+Phrase: Looks like a ghost and I fear for the people in this painting
+Phrase: Love the colors and the animals in this painting
+Phrase: Looks like a ghost and I fear for the people in this painting
+Phrase: Looks like a ghost and I feel fear for the people in this painting
+Phrase: Looks like a ghost and I fear for the people in this painting
+Phrase: Looks like a storm is coming and I fear for the people in the snow
+Phrase: Looks like a ghost and I fear for the people in this painting
+Phrase: Love the use of colors and shapes in this painting
+Phrase: Love the use of colors and shapes in this painting
+Phrase: Looks like a ghost and I feel fear for the people in this painting
+Phrase: Looks like a ghost and I fear for the people in this painting
+Phrase: Love the colors and the texture of the painting
+Phrase: Looks like a ghost and I fear for the people in this painting
+Phrase: Love the use of color and shading in this painting
+Phrase: Love the colors and the way the people are looking at each other
+Phrase: Am disappointed by the lack of details in the trees and leaves
+Phrase: Looks like a ghost and I am scared of what is behind it
+Phrase: Looks like a ghost and I fear for the people in this painting
+Phrase: Looks like a ghost and I fear for the people in this painting
+Phrase: Looks like a ghost and I fear for the people in this painting
+Phrase: Am curious as to what is behind the people and what they are talking about
+Phrase: Looks like a ghost and I am scared of what is behind it
+Phrase: Looks like a ghost and I fear for the person who is going to hurt her
+Phrase: Looks like a ghost and I fear for the people in this painting
+Phrase: Looks like a ghost and I fear for the people in this painting
+Phrase: Looks like a ghost and I fear for the person who is going to hurt her
+Phrase: Love the use of colors and shapes in this painting
+Phrase: Am curious as to what is behind this tree and what it means
+Phrase: Am curious as to what is behind this tree and what it means
+Phrase: Am curious as to what is going on in this painting it looks like the men are waiting for something
+Phrase: Love the use of colors and shapes in this painting
+Phrase: Love the colors and the animals in this painting
+

@@ -1,0 +1,208 @@
+Cluster 1:
+Phrase: I like the way the colors are drawn and the man is walking in the distance
+Phrase: I love the way the colors are painted
+Phrase: I like the way the colors are drawn and the shapes are very interesting
+Phrase: I love the way the colors are painted
+Phrase: I like the way the colors are painted and the scene is very peaceful
+Phrase: I like the way the colors are painted and the scene is very interesting
+Phrase: I love the way the woman is holding her horse and how she looks like she is in awe
+Phrase: I like the way the colors are painted and the scene is very peaceful
+Phrase: I love the way the colors are painted
+Phrase: I like the way the colors are painted and the people look happy
+Phrase: I like the way the woman is holding her hand and she looks very happy
+Phrase: I like the way the trees are painted
+Phrase: I love the way the colors are drawn and the shapes look like they are all in different directions
+Phrase: I love the way the colors are painted
+Phrase: I like the way the colors are painted and the people in the painting look happy
+Phrase: I like the way the colors are drawn and the man looks very happy
+Phrase: I love the way the colors are painted
+Phrase: I love the way the colors are painted
+Phrase: I like the way the colors are painted and the people look happy
+Phrase: I love the way the colors are painted
+Phrase: I like the way the colors are painted and the scene is very peaceful
+Phrase: I love the way the colors are painted
+Phrase: I like the way the colors are drawn and the scene is very interesting
+Phrase: I like the way the colors are painted and the scene is very interesting
+Phrase: I like the way the colors are painted and the people look so funny
+Phrase: I love the way the colors are painted
+Phrase: I love the way the colors are painted
+Phrase: I love the way the colors are painted
+Phrase: I like the way the colors are painted and the scene is very peaceful
+Phrase: I like the way the colors are painted and the people look happy
+Phrase: I like the way the colors are painted and the trees look so peaceful
+Phrase: I like the way the colors are painted and the people look very calm
+Phrase: I like the way the colors are painted and the scene is very peaceful
+Phrase: I like the way the colors are painted and the scene is very peaceful
+Phrase: I love the way the colors are painted
+Phrase: I love the way the colors are painted
+Phrase: I love the way the colors are painted
+Phrase: I love the way the trees are painted
+Phrase: I like the way the colors are painted and the woman looks happy
+Phrase: I like the way the colors are drawn and the woman looks very happy
+Phrase: I like the way the clouds are painted
+Phrase: I like the way the colors are painted and the scene is very vibrant
+Phrase: I love the way the colors are painted and the people look like they are dancing
+Phrase: I like the way the colors are drawn and the man is walking in the distance
+Phrase: I like the way the colors are painted and the scene is very peaceful
+Phrase: I love the way the colors are painted
+Phrase: I love the way the man is holding his hand and how he looks like he is in awe
+Phrase: I like the way the colors are drawn and the water is very calm
+Phrase: I like the way the colors are painted and the scene is very peaceful
+Phrase: I like the way the colors are painted and the scene is very peaceful
+
+Cluster 2:
+Phrase: I am not sure what is going on in this painting but it looks like a picture of a man or woman
+Phrase: I am not sure what is going on in this painting but it looks like a picture of a man and a woman
+Phrase: I am not sure what is going on here but it looks like a ghost
+Phrase: I am not sure what is going on here but it looks like a ghost
+Phrase: I am not sure what is going on here but it looks like a bunch of snakes
+Phrase: I am not sure what is going on here but it looks like a ghost
+Phrase: I am not sure what is going on here but it looks like a ghost
+Phrase: I am not sure what is going on here but it looks like a bunch of snakes
+Phrase: I am not sure what is going on here but it looks like a painting of a dinosaur
+Phrase: I am not sure what is going on here but it looks like a ghost
+Phrase: I am not sure what is going on here but it looks like a storm is coming
+Phrase: I am not sure what is going on here but it looks like a ghost
+Phrase: I am not sure what is going on here but it looks like a ghost
+Phrase: I am not sure what is going on here but it looks like a ghost
+Phrase: I am not sure what is going on here but it looks like a picture of a painting
+Phrase: I am not sure what is going on here but it looks like a ghost
+Phrase: I am not sure what is going on here but it looks like a ghost
+Phrase: I am not sure what is going on in this painting but it looks like a ghost
+Phrase: I am not sure what is going on here but it looks like a painting of a snake
+Phrase: I am not sure what is going on in this painting but it looks like a picture of a person
+Phrase: I am not sure what is going on here but it looks like a painting of a dinosaur
+Phrase: I am not sure what is going on here but it looks like a painting of a picture
+Phrase: I am not sure what is going on here but it looks like a ghost
+Phrase: I am not sure what is going on here but it looks like a ghost
+Phrase: I am not sure what is going on here but it looks like a ghost
+Phrase: I am not sure what is going on here but it looks like a ghost
+Phrase: I am not sure what is going on here but it looks like a ghost
+Phrase: I am not sure what is going on in this picture but it looks like a ghost
+Phrase: I am not sure what is going on here but it looks like a ghost
+Phrase: I am not sure what is going on here but it looks like a painting of a tree
+Phrase: I am not sure what is going on here but it looks like a ghost
+Phrase: I am not sure what is going on here but it looks like a clown
+Phrase: I am not sure what is going on here but it looks like a ghost
+Phrase: I am not sure what is going on here but it looks like a ghost
+Phrase: I am not sure what is going on in this painting but it looks like a ghost
+Phrase: I am not sure what is going on here but it looks like a ghost
+Phrase: I am not sure what is going on here but it looks like a ghost
+Phrase: I am not sure what is going on in this painting but it looks like a picture of a person
+Phrase: I am not sure what is going on here but it looks like a painting of a snake
+Phrase: I am not sure what is going on here but it looks like a bunch of snakes
+Phrase: I am not sure what is going on here but it looks like a painting of a tree
+Phrase: I am not sure what is going on here but it looks like a painting
+Phrase: I am not sure what is going on here but it looks like a painting of a table
+Phrase: I am not sure what is going on here but it looks like a ghost
+Phrase: I am not sure what is going on here but it looks like a ghost
+Phrase: I am not sure what is going on here but it looks like a painting of a picture
+Phrase: I am not sure what is going on here but it looks like a ghost
+Phrase: I am not sure what is going on here but it looks like a bunch of snakes
+Phrase: I am not sure what is going on here but it looks like a painting of a dragon
+Phrase: I am not sure what is going on here but it looks like a painting of a mountain in the background
+
+Cluster 3:
+Phrase: I feel fear because it looks like a monster lurking in the background
+Phrase: I like the way the man is holding his hand in front of him
+Phrase: I like the way the woman is holding her dog in the water
+Phrase: I am amused because the woman looks like she is having a fun time
+Phrase: I feel fear because the woman looks like she is about to take her own life
+Phrase: I feel fear because there are so many people in the dark room that they look like they are going to kill someone
+Phrase: I am not sure what is going on here but it looks like a painting of a man
+Phrase: I like the way the colors are painted
+Phrase: I love the way the man is holding his horse in the background
+Phrase: I like the way the sky is painted and the colors are bright and vibrant
+Phrase: I like the way the colors are painted and the color of the painting makes it look like a bird
+Phrase: I feel fear because there are people in the middle of the painting and they look like they are going to die
+Phrase: I like the way the colors are painted
+Phrase: I like the way the colors are painted
+Phrase: I like the way the man is holding his hand
+Phrase: I feel fear because the man looks like he is trying to kill someone
+Phrase: I feel sad because the people look like they are being tortured
+Phrase: I like the way the man is holding his dog in front of him
+Phrase: I like the way the colors are painted
+Phrase: I like the way the colors are painted and the scene is very dark
+Phrase: I like the way the colors are painted
+Phrase: I feel fear because the people look like they are going to kill someone
+Phrase: I am not sure what is going on here but it makes me feel confused
+Phrase: I like the way the colors are painted
+Phrase: I like the way the colors are painted
+Phrase: I am amused by the way the woman is holding her hand and she looks like she is having a good time
+Phrase: I am not sure what is going on here but it makes me feel confused
+Phrase: I am not sure what is going on in this painting but it looks like a blank canvas
+Phrase: I am not sure what is going on here but it looks like a lot of people are trying to figure out what they are doing
+Phrase: I like the way the colors are drawn and the scene is very dark
+Phrase: I am not sure what is going on here but it looks like a painting of a man
+Phrase: I am not sure what is going on here but it looks like a painting of a man or woman
+Phrase: I like the way the colors are painted and the scene is very dark
+Phrase: I like the way the colors are painted
+Phrase: I like the way the colors are painted
+Phrase: I like the way the colors are painted
+Phrase: I like the way the colors are drawn and the scene is very dark
+Phrase: I am not sure what is going on here but it looks like a painting of a man or woman
+Phrase: I feel sad because the man looks like he is in pain
+Phrase: I feel fear because it looks like the woman is in a dark room and she is looking at her
+Phrase: I like the way the colors are drawn and the people look very relaxed
+Phrase: I like the way the man is holding his hand in front of him
+Phrase: I like the way the woman is holding her hand
+Phrase: I like the way the colors are painted
+Phrase: I am not sure what is going on here but it makes me feel confused
+Phrase: I feel fear because it looks like a monster lurking in the background
+Phrase: I like the way the colors are painted and the people look very relaxed
+Phrase: I like the way the colors are painted
+Phrase: I like the way the colors are painted
+Phrase: I am not sure what is going on here but it makes me feel confused
+
+Cluster 4:
+Phrase: I like the way the colors are painted and the scene is very realistic
+Phrase: I like the way the colors are drawn and the shapes are bright and vibrant
+Phrase: I am not sure what is going on here but it looks like a monster in the background
+Phrase: I like the way the colors are drawn and the scene is very realistic
+Phrase: I like the way the colors are painted and the flowers look so peaceful
+Phrase: I am not sure what is going on here but it looks like a painting of a tree
+Phrase: I feel sad because the animals look like they are being bullied
+Phrase: I am not sure what is going on here but it looks like a monster
+Phrase: I am not sure what is going on here but it looks like a painting of a horse
+Phrase: I like the way the colors are painted and the shapes look very realistic
+Phrase: I am not sure what is going on here but it looks like a monster
+Phrase: I like the way the colors are painted and the scene is very realistic
+Phrase: I am not sure what is going on here but it looks like a painting of a horse
+Phrase: I like the way the colors are drawn and the shapes look very realistic
+Phrase: I am not sure what is going on here but it looks like a monster
+Phrase: I am amused by the way the man looks like he is trying to figure out what he is doing
+Phrase: I like the way the colors are painted and the shapes look very realistic
+Phrase: I like the way the colors are drawn and the scene is very realistic
+Phrase: I love the way the colors are drawn and the people look like they are dancing
+Phrase: I am not sure what is going on here but it looks like a monster
+Phrase: I like the way the colors are painted and the animals look very realistic
+Phrase: I like the way the colors are painted and the shapes look very realistic
+Phrase: I like the way the animals are drawn
+Phrase: I like the way the colors are painted and the shapes look very realistic
+Phrase: I like the way the flowers are painted
+Phrase: I like the way the colors are drawn and the shapes are very bright
+Phrase: I like the way the colors are drawn and the scene is very realistic
+Phrase: I love the way the colors are drawn and the people look like they are dancing
+Phrase: I love the way the people are dressed up in black and white
+Phrase: I like the way the colors are painted and the shapes look very realistic
+Phrase: I like the way the colors are drawn and the shapes are very realistic
+Phrase: I love the way the animals are drawn and how they look
+Phrase: I like the way the colors are drawn and the light is bright
+Phrase: I like the way the colors are painted and the flowers look so bright
+Phrase: I like the way the colors are painted and the shapes look very realistic
+Phrase: I like the way the colors are painted and the shapes look very realistic
+Phrase: I am not sure what is going on here but it looks like a monster
+Phrase: I am not sure what is going on here but it looks like a painting of a horse
+Phrase: I love the way the colors are drawn and the shapes look like they are all in harmony
+Phrase: I am not sure what is going on here but it looks like a monster in the background
+Phrase: I am not sure what is going on here but it looks like a monster
+Phrase: I am not sure what is going on here but it looks like a painting of a horse
+Phrase: I love the way the animals are drawn and how they look like they are all dressed up
+Phrase: I am not sure what is going on here but it looks like a painting of a horse
+Phrase: I am not sure what is going on here but it looks like a monster
+Phrase: I am not sure what is going on here but it looks like a monster
+Phrase: I like the way the colors are painted and the bright colors make it look like a nice day
+Phrase: I like the way the colors are painted and the shapes look very realistic
+Phrase: I love the way the colors are drawn and the people look like they are dancing
+Phrase: I like the way the colors are drawn and the flowers look so peaceful
+
