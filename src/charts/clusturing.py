@@ -94,3 +94,19 @@ plt.ylabel('PCA Feature 2')
 # Save the plot as a PNG image
 plt.savefig('plot/kmeans_clustering.png')
 plt.close()
+
+labels = kmeans.labels_
+
+# Extraction et écriture des phrases de chaque cluster dans un fichier
+with open('clusters_tidf.txt', 'w') as f:
+    for i in range(3):
+        cluster_mask = labels == i
+        # Récupération des phrases du cluster
+        cluster_data = X[cluster_mask]
+        # Sélection aléatoire de 50 phrases
+        selected_phrases = cluster_data.sample(n=50)['caption']
+        # Écriture des phrases sélectionnées dans le fichier
+        f.write(f"Cluster {i + 1}:\n")
+        for phrase in selected_phrases:
+            f.write(f"Phrase: {phrase}\n")
+        f.write("\n")

@@ -1,0 +1,156 @@
+Cluster 1:
+Phrase: Scene is peaceful and the colors are calming
+Phrase: I like the colors and the way the trees are painted
+Phrase: I like the way the colors are drawn and the scene is very realistic
+Phrase: I like the way the colors are painted and the people look happy
+Phrase: Colors are calming and the scene is peaceful
+Phrase: I like the colors and the way they are drawn
+Phrase: Colors are calming and the scene is peaceful
+Phrase: I love the colors and the way they are painted
+Phrase: Colors are calming and the scene is peaceful
+Phrase: I like the colors and the way they blend together
+Phrase: I like the way the colors are painted
+Phrase: I love the way the colors are drawn and the shapes look like they are all in harmony
+Phrase: Love the colors and the subject matter of this painting
+Phrase: I like the way the colors are painted and the scene is very peaceful
+Phrase: I like the colors and the way they are painted
+Phrase: I love the way the colors are painted
+Phrase: Love the colors and the way they are painted
+Phrase: Love the colors of the flowers and the background is calming
+Phrase: I like the way the colors are painted
+Phrase: I love the way the colors are drawn and the animals look like they are in awe
+Phrase: I like the way the colors are painted
+Phrase: Colors are calming and the scene is peaceful
+Phrase: Love the colors and the way the trees are painted
+Phrase: I like the way the colors are painted and the bright colors make me feel contentment
+Phrase: I love the colors and the way the woman is holding her head
+Phrase: I love the colors and the way they are painted
+Phrase: Love the colors and the way the flowers are painted
+Phrase: I like the way the colors are drawn and the shapes are bright and vibrant
+Phrase: Scene is very relaxing and the colors are calming
+Phrase: I like the way the colors are painted
+Phrase: I love the way the colors are painted
+Phrase: I love the way the colors are painted
+Phrase: Love the colors and the way the trees are painted
+Phrase: I love the way the colors are painted
+Phrase: Colors are calming and relaxing
+Phrase: I like the way the colors are painted and the shapes look very realistic
+Phrase: I like the way the artist painted the painting
+Phrase: I love the way the colors are painted
+Phrase: I like the colors and the way they are painted
+Phrase: I like the way the colors are blended together
+Phrase: I like the way the colors are painted and the people look happy
+Phrase: I like the way the animals are painted and the colors are bright and vibrant
+Phrase: I love the colors and the way they blend together
+Phrase: I like the way the colors are painted and the shapes look very realistic
+Phrase: Scene is peaceful and the colors are calming
+Phrase: I like the way the colors are drawn and the birds look very realistic
+Phrase: Love the colors and the way the trees are painted
+Phrase: Colors are calming and the scene is peaceful
+Phrase: Love the colors and the structure of this painting
+Phrase: Love the way the trees are painted it is very peaceful
+
+Cluster 2:
+Phrase: Am disappointed by the lack of details in the painting and the lack to detail on the boats
+Phrase: Painting makes me feel confused because I do not know what the artist is trying to convey
+Phrase: Painting is very detailed and I like the contrast between the black and white
+Phrase: i'm confused about this artwork
+Phrase: i don't get what the artist wanted to say here
+Phrase: I am confused by this painting because it looks like a tree in the middle of a forest
+Phrase: the artwork is somewhat interesting
+Phrase: Black and white painting looks like a scary place to be
+Phrase: Clouds look like they are about to come alive
+Phrase: I like the simplicity of this painting and the way it is drawn
+Phrase: Man looks like he is being attacked by a demon
+Phrase: I am amused by this painting because it looks like the people are having fun
+Phrase: the artwork is somewhat interesting
+Phrase: I am afraid that the woman is going to kill her
+Phrase: Painting is boring and lacks details in the image
+Phrase: Do not know what I am looking at it is just a bunch of lines and nothing special
+Phrase: Horse looks like it is about to get a ride
+Phrase: Am amazed by the way the artist was able to capture the movement of the horse and rider
+Phrase: Am curious as to what is going on in this painting it looks like a bird's face
+Phrase: I feel fear because it looks like the woman is in a dark and scary position
+Phrase: Am curious as to what is going on in this painting and what it means
+Phrase: Am disappointed by the lack of details in the faces and body language of the people
+Phrase: the artwork is somewhat interesting
+Phrase: Painting is very detailed and I like the contrast between the reds and blues
+Phrase: Painting is very detailed and I like the contrast between the black and white
+Phrase: i don't get what the artist wanted to say here
+Phrase: Colors are calming and the shapes look like they are relaxing
+Phrase: I like the colors and the way the bird is painted it makes me feel content
+Phrase: Black and white painting looks like a scary place to be
+Phrase: Painting is very detailed and I like the contrast between the black and white
+Phrase: I like the way the clouds are painted
+Phrase: Women are having a good time playing with each other
+Phrase: Man looks like he is being attacked by a giant snake
+Phrase: I am excited by the way the people are looking at each other
+Phrase: Would love to be on a beach with my family
+Phrase: Painting is boring because it is just a bunch of random shapes that do not make me feel much
+Phrase: Horse looks like it is about to hurt someone
+Phrase: Like the way the man's body is drawn and his expression is calm
+Phrase: Painting makes me feel confused because I do not know what the artist is trying to convey
+Phrase: Woman looks like she is in pain and the colors are dark
+Phrase: Painting is boring and lacks details in the image
+Phrase: Black and white painting looks like a scary place to be
+Phrase: Am amazed by the way the artist was able to capture the movement of the horses
+Phrase: Painting makes me feel confused because I do not know what the artist is trying to convey
+Phrase: i'm confused about this artwork
+Phrase: Woman is relaxing on the grass in a peaceful setting
+Phrase: I am confused by this painting because it looks like a bunch of people in the picture
+Phrase: Painting is boring because the colors are muted and dull
+Phrase: I like the way the animals are drawn and the colors are bright and vibrant
+Phrase: Black and white painting of a man being killed by an evil creature
+
+Cluster 3:
+Phrase: how the chair is looking&DARKGREY#DARKGREY#GREY#GREY#GREY is scary
+Phrase: how the woman is painted&LIGHTGREY#DARKGREY#GREY#DARKGREY#GREY silly
+Phrase: how the bicycle is looking&TAN#LIGHTGREY#GREY#TAN#DARKGREY makes me happy
+Phrase: the way the worm is painted&LIGHTGREY#LIGHTGREY#GREY#GREY#DARKGREY makes me content
+Phrase: how the tank is looking&LIGHTGREY#DARKGREY#GREY#GREY#GREY is pleasing
+Phrase: &GREY#GREY#TAN#DARKGREY#DARKGREY scary
+Phrase: the way the mountain is looking&DARKGREY#DARKGREY#DARKGREY#GREY#DARKGREY makes me amazed
+Phrase: the way the castle is looking&VIOLET#LIGHTGREY#GREY#DARKGREY#TAN makes me happy
+Phrase: the way the plain is looking&DARKGREY#DARKGREY#GREY#GREY#DARKGREY scary
+Phrase: it's scary the way the plate is looking&GREY#LIGHTGREY#GREY#DARKGREY#BROWN
+Phrase: how the elephant is painted&LIGHTGREY#GREY#GREY#DARKGREY#GREY makes me scared
+Phrase: how the butterfly is painted&GREY#DARKGREY#GREY#GREY#GREY is creepy
+Phrase: the way the chair is painted&LIGHTGREY#TAN#DARKGREY#DARKGREY#GREY pleasing
+Phrase: the way the oak tree is looking&LIGHTGREY#GREY#GREY#LIGHTGREY#DARKGREY makes me happy
+Phrase: how the plate is painted&DARKGREY#GREY#GREY#DARKGREY#DARKGREY makes me scared
+Phrase: the way the snake is painted&TAN#DARKGREY#TAN#GREY#BROWN is silly
+Phrase: how the willow tree is looking&WHITE#GREY#GREY#DARKGREY#NAVY pleasing
+Phrase: the way the woman is painted&GREY#DARKGREY#DARKGREY#BROWN#DARKGREY is scary
+Phrase: how the plain is painted&LIGHTGREY#GREY#GREY#GREY#GREY makes me happy
+Phrase: i'm scared because of how the cattle is painted&DARKGREY#DARKGREY#GREY#GREY#GREY
+Phrase: the way the plate is looking&WHITE#LIGHTGREY#GREY#TAN#DARKGREY is amazing
+Phrase: the way the butterfly is looking&LIGHTGREY#GREY#GREY#GREY#DARKGREY pleasing
+Phrase: the way the clock is painted&AZURE#LIGHTGREY#BROWN#DARKGREY#GREY pleasing
+Phrase: how the chair is painted&TAN#BEIGE#GREY#DARKGREY#GREY makes me happy
+Phrase: how the plate is looking&DARKGREY#DARKGREY#GREY#GREY#NAVY makes me scared
+Phrase: how the snake is looking&IVORY#DARKGREY#DARKGREY#TAN#BROWN creepy
+Phrase: how the butterfly is looking&DARKGREY#LIGHTGREY#GREY#DARKGREY#GREY amazing
+Phrase: how the plain is painted&LIGHTGREY#GREY#GREY#GREY#GREY pleasing
+Phrase: how the butterfly is painted&GREY#DARKGREY#LIGHTGREY#GREY#DARKGREY creepy
+Phrase: &LIGHTGREY#GREY#DARKGREY#GREY#GREY pleasing
+Phrase: the way the elephant is painted&GREY#GREY#DARKGREY#LIGHTGREY#DARKGREY is scary
+Phrase: the way the elephant is painted&LIGHTGREY#LIGHTGREY#GREY#GREY#DARKGREY creepy
+Phrase: how the boy is painted&LIGHTGREY#GREY#GREY#DARKGREY#DARKGREY is funny
+Phrase: &LIGHTGREY#DARKGREY#GREY#DARKRED#GREY silly
+Phrase: the way the woman is painted&DARKGREY#LIGHTGREY#GREY#GREY#TAN makes me in awe
+Phrase: the way the bear is painted&LIGHTGREY#AZURE#BROWN#GREY#DARKGREY pleasing
+Phrase: it's nice the way the girl is painted&GREY#LIGHTGREY#DARKGREY#GREY#BROWN
+Phrase: the way the chair is looking&BROWN#GREY#GREY#GREY#DARKGREY makes me happy
+Phrase: the way the plate is painted&GREY#GREY#DARKGREY#LIGHTGREY#DARKGREY is scary
+Phrase: how the elephant is looking&GREY#GREY#LIGHTGREY#GREY#DARKGREY amazing
+Phrase: the way the plate is looking&DARKGREY#DARKGREY#DARKGREY#GREY#DARKGREY is creepy
+Phrase: i love how the plate is painted&LIGHTGREY#TAN#GREY#DARKGREY#DARKGREY
+Phrase: the way the butterfly is painted&LIGHTGREY#GREY#GREY#DARKGREY#GREY makes me content
+Phrase: the way the woman is looking&DARKGREY#LIGHTGREY#GREY#GREY#GREY makes me amazed
+Phrase: how the television is looking&LIGHTGREY#GREY#DARKGREY#GREY#GREY is pleasing
+Phrase: how the plate is painted&LIGHTGREY#TAN#DARKGREY#BROWN#DARKGREY makes me amazed
+Phrase: how the plate is painted&BROWN#LIGHTGREY#TAN#GREY#DARKGREY pleasing
+Phrase: it's scary the way the dinosaur is looking&DARKGREY#GREY#DARKGREY#TAN#DARKGREY
+Phrase: how the elephant is painted&DARKGREY#GREY#LIGHTGREY#GREY#DARKGREY makes me in awe
+Phrase: it's scary the way the kangaroo is looking&GREY#LIGHTGREY#DARKGREY#DARKGREY#DARKGREY
+

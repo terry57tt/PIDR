@@ -1,0 +1,304 @@
+FST :
+Taille 2 : 4033 n-grammes différents
+[the way]   [vu 2948 fois]
+[way the]   [vu 2948 fois]
+[how the]   [vu 2532 fois]
+[makes me]   [vu 1809 fois]
+[the plate]   [vu 839 fois]
+[plate is]   [vu 839 fois]
+[i'm confused]   [vu 633 fois]
+[confused about]   [vu 633 fois]
+[about this]   [vu 633 fois]
+[this artwork]   [vu 633 fois]
+[the elephant]   [vu 511 fois]
+[elephant is]   [vu 511 fois]
+[i don't]   [vu 506 fois]
+[don't get]   [vu 506 fois]
+[get what]   [vu 506 fois]
+[what the]   [vu 506 fois]
+[the artist]   [vu 506 fois]
+[artist wanted]   [vu 506 fois]
+[wanted to]   [vu 506 fois]
+[to say]   [vu 506 fois]
+
+FST :
+Taille 3 : 7229 n-grammes différents
+[the way the]   [vu 2948 fois]
+[the plate is]   [vu 839 fois]
+[i'm confused about]   [vu 633 fois]
+[confused about this]   [vu 633 fois]
+[about this artwork]   [vu 633 fois]
+[the elephant is]   [vu 511 fois]
+[i don't get]   [vu 506 fois]
+[don't get what]   [vu 506 fois]
+[get what the]   [vu 506 fois]
+[what the artist]   [vu 506 fois]
+[the artist wanted]   [vu 506 fois]
+[artist wanted to]   [vu 506 fois]
+[wanted to say]   [vu 506 fois]
+[to say here]   [vu 506 fois]
+[makes me content]   [vu 495 fois]
+[way the plate]   [vu 433 fois]
+[makes me happy]   [vu 422 fois]
+[how the plate]   [vu 406 fois]
+[i'm not sure]   [vu 403 fois]
+[not sure what's]   [vu 403 fois]
+
+FST :
+Taille 4 : 9670 n-grammes différents
+[i'm confused about this]   [vu 633 fois]
+[confused about this artwork]   [vu 633 fois]
+[i don't get what]   [vu 506 fois]
+[don't get what the]   [vu 506 fois]
+[get what the artist]   [vu 506 fois]
+[what the artist wanted]   [vu 506 fois]
+[the artist wanted to]   [vu 506 fois]
+[artist wanted to say]   [vu 506 fois]
+[wanted to say here]   [vu 506 fois]
+[the way the plate]   [vu 433 fois]
+[way the plate is]   [vu 433 fois]
+[how the plate is]   [vu 406 fois]
+[i'm not sure what's]   [vu 403 fois]
+[not sure what's going]   [vu 403 fois]
+[sure what's going on]   [vu 403 fois]
+[what's going on here]   [vu 403 fois]
+[it's nice the way]   [vu 325 fois]
+[nice the way the]   [vu 325 fois]
+[makes me in awe]   [vu 319 fois]
+[the way the elephant]   [vu 291 fois]
+
+FST :
+Taille 5 : 11358 n-grammes différents
+[i'm confused about this artwork]   [vu 633 fois]
+[i don't get what the]   [vu 506 fois]
+[don't get what the artist]   [vu 506 fois]
+[get what the artist wanted]   [vu 506 fois]
+[what the artist wanted to]   [vu 506 fois]
+[the artist wanted to say]   [vu 506 fois]
+[artist wanted to say here]   [vu 506 fois]
+[the way the plate is]   [vu 433 fois]
+[i'm not sure what's going]   [vu 403 fois]
+[not sure what's going on]   [vu 403 fois]
+[sure what's going on here]   [vu 403 fois]
+[it's nice the way the]   [vu 325 fois]
+[the way the elephant is]   [vu 291 fois]
+[it's pleasing to look at]   [vu 288 fois]
+[it's scary the way the]   [vu 244 fois]
+[pleasing to look at the]   [vu 167 fois]
+[to look at the way]   [vu 167 fois]
+[look at the way the]   [vu 167 fois]
+[the artwork is somewhat interesting]   [vu 156 fois]
+[the way the woman is]   [vu 153 fois]
+
+FST :
+Taille 6 : 10607 n-grammes différents
+[i don't get what the artist]   [vu 506 fois]
+[don't get what the artist wanted]   [vu 506 fois]
+[get what the artist wanted to]   [vu 506 fois]
+[what the artist wanted to say]   [vu 506 fois]
+[the artist wanted to say here]   [vu 506 fois]
+[i'm not sure what's going on]   [vu 403 fois]
+[not sure what's going on here]   [vu 403 fois]
+[it's pleasing to look at the]   [vu 167 fois]
+[pleasing to look at the way]   [vu 167 fois]
+[to look at the way the]   [vu 167 fois]
+[it's pleasing to look at how]   [vu 121 fois]
+[pleasing to look at how the]   [vu 121 fois]
+[the way the willow tree is]   [vu 97 fois]
+[i'm scared because of the way]   [vu 73 fois]
+[scared because of the way the]   [vu 73 fois]
+[i'm in awe of the way]   [vu 69 fois]
+[in awe of the way the]   [vu 69 fois]
+[the way the lawn mower is]   [vu 53 fois]
+[the way the oak tree is]   [vu 47 fois]
+[i'm scared because of how the]   [vu 44 fois]
+
+FST :
+Taille 7 : 7747 n-grammes différents
+[i don't get what the artist wanted]   [vu 506 fois]
+[don't get what the artist wanted to]   [vu 506 fois]
+[get what the artist wanted to say]   [vu 506 fois]
+[what the artist wanted to say here]   [vu 506 fois]
+[i'm not sure what's going on here]   [vu 403 fois]
+[it's pleasing to look at the way]   [vu 167 fois]
+[pleasing to look at the way the]   [vu 167 fois]
+[it's pleasing to look at how the]   [vu 121 fois]
+[i'm scared because of the way the]   [vu 73 fois]
+[i'm in awe of the way the]   [vu 69 fois]
+[it's scary the way the plate is]   [vu 34 fois]
+[it's nice the way the plate is]   [vu 34 fois]
+[it's scary the way the elephant is]   [vu 29 fois]
+[i love the way the plate is]   [vu 25 fois]
+[the way the oak tree is looking&LIGHTGREY#GREY#GREY#LIGHTGREY#DARKGREY]   [vu 25 fois]
+[it's nice the way the skyscraper is]   [vu 23 fois]
+[it's nice the way the willow tree]   [vu 22 fois]
+[nice the way the willow tree is]   [vu 22 fois]
+[it's nice the way the elephant is]   [vu 22 fois]
+[to look at the way the plate]   [vu 20 fois]
+
+FST :
+Taille 8 : 4603 n-grammes différents
+[i don't get what the artist wanted to]   [vu 506 fois]
+[don't get what the artist wanted to say]   [vu 506 fois]
+[get what the artist wanted to say here]   [vu 506 fois]
+[it's pleasing to look at the way the]   [vu 167 fois]
+[it's nice the way the willow tree is]   [vu 22 fois]
+[pleasing to look at the way the plate]   [vu 20 fois]
+[to look at the way the plate is]   [vu 20 fois]
+[pleasing to look at the way the willow]   [vu 20 fois]
+[to look at the way the willow tree]   [vu 20 fois]
+[look at the way the willow tree is]   [vu 20 fois]
+[the mountain is painted&DARKGREY#DARKGREY#DARKGREY#GREY#DARKGREY makes me in awe]   [vu 20 fois]
+[pleasing to look at the way the skyscraper]   [vu 19 fois]
+[to look at the way the skyscraper is]   [vu 19 fois]
+[pleasing to look at the way the elephant]   [vu 16 fois]
+[to look at the way the elephant is]   [vu 16 fois]
+[the way the mountain is looking&DARKGREY#DARKGREY#DARKGREY#GREY#DARKGREY makes me]   [vu 15 fois]
+[the oak tree is looking&LIGHTGREY#GREY#GREY#LIGHTGREY#DARKGREY makes me happy]   [vu 14 fois]
+[i'm scared because of the way the plate]   [vu 14 fois]
+[scared because of the way the plate is]   [vu 14 fois]
+[it's nice the way the lawn mower is]   [vu 12 fois]
+
+FST :
+Taille 9 : 1779 n-grammes différents
+[i don't get what the artist wanted to say]   [vu 506 fois]
+[don't get what the artist wanted to say here]   [vu 506 fois]
+[it's pleasing to look at the way the plate]   [vu 20 fois]
+[pleasing to look at the way the plate is]   [vu 20 fois]
+[it's pleasing to look at the way the willow]   [vu 20 fois]
+[pleasing to look at the way the willow tree]   [vu 20 fois]
+[to look at the way the willow tree is]   [vu 20 fois]
+[it's pleasing to look at the way the skyscraper]   [vu 19 fois]
+[pleasing to look at the way the skyscraper is]   [vu 19 fois]
+[it's pleasing to look at the way the elephant]   [vu 16 fois]
+[pleasing to look at the way the elephant is]   [vu 16 fois]
+[i'm scared because of the way the plate is]   [vu 14 fois]
+[it's pleasing to look at how the plate is]   [vu 11 fois]
+[i'm in awe of the way the elephant is]   [vu 11 fois]
+[how the mountain is painted&DARKGREY#DARKGREY#DARKGREY#GREY#DARKGREY makes me in awe]   [vu 11 fois]
+[it's pleasing to look at how the willow tree]   [vu 10 fois]
+[pleasing to look at how the willow tree is]   [vu 10 fois]
+[i'm in awe of the way the mountain is]   [vu 10 fois]
+[it's pleasing to look at the way the chair]   [vu 10 fois]
+[pleasing to look at the way the chair is]   [vu 10 fois]
+
+FST :
+Taille 10 : 621 n-grammes différents
+[i don't get what the artist wanted to say here]   [vu 506 fois]
+[it's pleasing to look at the way the plate is]   [vu 20 fois]
+[it's pleasing to look at the way the willow tree]   [vu 20 fois]
+[pleasing to look at the way the willow tree is]   [vu 20 fois]
+[it's pleasing to look at the way the skyscraper is]   [vu 19 fois]
+[it's pleasing to look at the way the elephant is]   [vu 16 fois]
+[it's pleasing to look at how the willow tree is]   [vu 10 fois]
+[it's pleasing to look at the way the chair is]   [vu 10 fois]
+[it's pleasing to look at the way the lawn mower]   [vu 10 fois]
+[pleasing to look at the way the lawn mower is]   [vu 10 fois]
+[the way the mountain is painted&DARKGREY#DARKGREY#DARKGREY#GREY#DARKGREY makes me in awe]   [vu 9 fois]
+[the way the oak tree is looking&LIGHTGREY#GREY#GREY#LIGHTGREY#DARKGREY makes me happy]   [vu 8 fois]
+[the way the mountain is looking&DARKGREY#DARKGREY#DARKGREY#GREY#DARKGREY makes me in awe]   [vu 8 fois]
+[it's pleasing to look at the way the woman is]   [vu 7 fois]
+[the way the oak tree is painted&LIGHTGREY#GREY#GREY#LIGHTGREY#DARKGREY makes me content]   [vu 6 fois]
+[it's pleasing to look at the way the oak tree]   [vu 5 fois]
+[pleasing to look at the way the oak tree is]   [vu 5 fois]
+[it's pleasing to look at the way the wardrobe is]   [vu 4 fois]
+[it's pleasing to look at the way the butterfly is]   [vu 4 fois]
+[it's pleasing to look at how the trees are looking&TAN#GREY#TAN#DARKGREY#GREY]   [vu 4 fois]
+
+FST :
+Taille 11 : 177 n-grammes différents
+[it's pleasing to look at the way the willow tree is]   [vu 20 fois]
+[it's pleasing to look at the way the lawn mower is]   [vu 10 fois]
+[it's pleasing to look at the way the oak tree is]   [vu 5 fois]
+[pleasing to look at the way the willow tree is painted&TAN#GREY#TAN#DARKGREY#GREY]   [vu 4 fois]
+[pleasing to look at the way the oak tree is painted&LIGHTGREY#GREY#GREY#LIGHTGREY#DARKGREY]   [vu 4 fois]
+[pleasing to look at the way the willow tree is looking&GOLD#TAN#COPPER#TAN#DARKRED]   [vu 3 fois]
+[it's pleasing to look at how the willow tree is painted&TAN#GREY#TAN#DARKGREY#GREY]   [vu 3 fois]
+[it's pleasing to look at the way the butterfly is looking&LIGHTGREY#GREY#GREY#GREY#DARKGREY]   [vu 2 fois]
+[it's pleasing to look at the way the skyscraper is painted&BROWN#TAN#TAN#GREY#DARKGREY]   [vu 2 fois]
+[it's pleasing to look at the way the elephant is painted&LIGHTGREY#GREY#GREY#DARKGREY#GREY]   [vu 2 fois]
+[the way the sweet pepper is painted&WHITE#LIGHTGREY#GREY#DARKGREY#TAN makes me in awe]   [vu 2 fois]
+[pleasing to look at the way the willow tree is looking&TAN#GREY#TAN#DARKGREY#GREY]   [vu 2 fois]
+[pleasing to look at the way the lawn mower is painted&LIGHTGREY#GREY#GREY#GREY#GREY]   [vu 2 fois]
+[pleasing to look at the way the willow tree is painted&TAN#BROWN#TAN#GREY#DARKGREY]   [vu 2 fois]
+[it's pleasing to look at the way the aquarium fish is]   [vu 2 fois]
+[it's pleasing to look at the way the wardrobe is painted&LIGHTGREY#MAROON#TAN#GREY#DARKGREY]   [vu 1 fois]
+[it's pleasing to look at the way the plate is painted&GREY#NAVY#DARKGREY#GREY#GREY]   [vu 1 fois]
+[it's pleasing to look at the way the woman is painted&LIGHTGREY#DARKGREY#DARKGREY#GREY#GREY]   [vu 1 fois]
+[it's pleasing to look at how the willow tree is painted&LIGHTGREY#SAPGREEN#DARKGREY#SAPGREEN#LIGHTGREY]   [vu 1 fois]
+[the way the lawn mower is looking&GREY#LIGHTGREY#DARKGREY#GREY#GREY makes me in awe]   [vu 1 fois]
+
+FST :
+Taille 12 : 26 n-grammes différents
+[it's pleasing to look at the way the willow tree is painted&TAN#GREY#TAN#DARKGREY#GREY]   [vu 4 fois]
+[it's pleasing to look at the way the oak tree is painted&LIGHTGREY#GREY#GREY#LIGHTGREY#DARKGREY]   [vu 4 fois]
+[it's pleasing to look at the way the willow tree is looking&GOLD#TAN#COPPER#TAN#DARKRED]   [vu 3 fois]
+[it's pleasing to look at the way the willow tree is looking&TAN#GREY#TAN#DARKGREY#GREY]   [vu 2 fois]
+[it's pleasing to look at the way the lawn mower is painted&LIGHTGREY#GREY#GREY#GREY#GREY]   [vu 2 fois]
+[it's pleasing to look at the way the willow tree is painted&TAN#BROWN#TAN#GREY#DARKGREY]   [vu 2 fois]
+[it's pleasing to look at the way the willow tree is painted&TAN#DARKRED#GREY#PLUM#PINK]   [vu 1 fois]
+[it's pleasing to look at the way the willow tree is painted&TAN#BROWN#BROWN#GREY#DARKGREY]   [vu 1 fois]
+[it's pleasing to look at the way the lawn mower is looking&WHITE#WHITE#LIGHTGREY#GREY#GREY]   [vu 1 fois]
+[it's pleasing to look at the way the willow tree is painted&GREY#TAN#BROWN#GREY#DARKGREY]   [vu 1 fois]
+[it's pleasing to look at the way the lawn mower is looking&WHITE#GREY#GREY#DARKGREY#NAVY]   [vu 1 fois]
+[it's pleasing to look at the way the willow tree is looking&WHITE#DARKGREY#GREY#NAVY#GREY]   [vu 1 fois]
+[it's pleasing to look at the way the willow tree is looking&BROWN#TAN#TAN#DARKGREY#GREY]   [vu 1 fois]
+[it's pleasing to look at the way the willow tree is painted&WHITE#GREY#DARKGREY#LIGHTGREY#GREY]   [vu 1 fois]
+[it's pleasing to look at the way the willow tree is painted&GOLD#TAN#COPPER#TAN#DARKRED]   [vu 1 fois]
+[it's pleasing to look at the way the lawn mower is painted&WHITE#DARKGREY#GREY#NAVY#LIGHTGREY]   [vu 1 fois]
+[it's pleasing to look at the way the oak tree is painted&LIGHTGREY#LIGHTGREY#GREY#DARKGREY#GREY]   [vu 1 fois]
+[it's pleasing to look at the way the lawn mower is painted&DARKGREY#DARKGREY#GREY#GREY#DARKGREY]   [vu 1 fois]
+[it's pleasing to look at the way the aquarium fish is looking&GREY#LIGHTGREY#GREY#GREY#GREY]   [vu 1 fois]
+[it's pleasing to look at the way the willow tree is looking&BROWN#TAN#TAN#GREY#DARKGREY]   [vu 1 fois]
+
+FST :
+Taille 13 : 0 n-grammes différents
+
+FST :
+Taille 14 : 0 n-grammes différents
+
+FST :
+Taille 15 : 0 n-grammes différents
+
+FST :
+Taille 16 : 0 n-grammes différents
+
+FST :
+Taille 17 : 0 n-grammes différents
+
+FST :
+Taille 18 : 0 n-grammes différents
+
+FST :
+Taille 19 : 0 n-grammes différents
+
+FST :
+Taille 20 : 0 n-grammes différents
+
+FST :
+Taille 21 : 0 n-grammes différents
+
+FST :
+Taille 22 : 0 n-grammes différents
+
+FST :
+Taille 23 : 0 n-grammes différents
+
+FST :
+Taille 24 : 0 n-grammes différents
+
+FST :
+Taille 25 : 0 n-grammes différents
+
+FST :
+Taille 26 : 0 n-grammes différents
+
+FST :
+Taille 27 : 0 n-grammes différents
+
+FST :
+Taille 28 : 0 n-grammes différents
+
+FST :
+Taille 29 : 0 n-grammes différents
+
