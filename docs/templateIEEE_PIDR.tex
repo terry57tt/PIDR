@@ -310,6 +310,8 @@
 
 % correct bad hyphenation here
 \hyphenation{op-tical net-works semi-conduc-tor}
+\usepackage{graphicx}
+\usepackage{float}
 
 
 \begin{document}
@@ -326,22 +328,24 @@
 % author names and affiliations
 % use a multiple column layout for up to three different
 % affiliations
-\author{\IEEEauthorblockN{Michael Shell}
-\IEEEauthorblockA{School of Electrical and\\Computer Engineering\\
-Georgia Institute of Technology\\
-Atlanta, Georgia 30332--0250\\
-Email: http://www.michaelshell.org/contact.html}
+\author{\IEEEauthorblockN{Mathias Aurand-Augier}
+\IEEEauthorblockA{School of Computer Engineering\\
+TELECOM Nancy\\
+Villers-les-Nancy, France\\
+mathias.aurand-augier@telecomnancy.eu}
 \and
-\IEEEauthorblockN{Homer Simpson}
-\IEEEauthorblockA{Twentieth Century Fox\\
-Springfield, USA\\
-Email: homer@thesimpsons.com}
+\IEEEauthorblockN{Théo Hornberger}
+\IEEEauthorblockA{School of Computer Engineering\\
+TELECOM Nancy\\
+Villers-les-Nancy, France\\
+theo.hornberger@telecomnancy.eu}
 \and
-\IEEEauthorblockN{James Kirk\\ and Montgomery Scott}
-\IEEEauthorblockA{Starfleet Academy\\
-San Francisco, California 96678--2391\\
-Telephone: (800) 555--1212\\
-Fax: (888) 555--1212}}
+\IEEEauthorblockN{Terry Tempestini}
+\IEEEauthorblockA{School of Computer Engineering\\
+TELECOM Nancy\\
+Villers-les-Nancy, France\\
+terry.tempestini@telecomnancy.eu}
+\and}
 
 % conference papers do not typically use \thanks and this command
 % is locked out in conference mode. If really needed, such as for
@@ -421,6 +425,68 @@ Subsection text here.
 Subsubsection text here.
 
 
+\section{Analyse de la proximité des phrases générées par les IA}
+
+Dans un premier temps, nous avons effectué une comparaison des réponses des IA concernant une image donnée. L'objectif principal est de déterminer le degré de similarité ou de divergence entre les phrases générées par les différentes IA. Cette comparaison permet non seulement de mesurer la proximité entre les IA deux à deux, mais aussi de déterminer si certaines IA se distinguent des autres.\\
+
+Cependant, il est important de noter que ces mesures ne reflètent pas la "qualité" intrinsèque d'une phrase donnée. Elles ne fournissent qu'une indication de la proximité entre les phrases générées par les différentes IA. Néanmoins, ces mesures sont utiles pour étudier le comportement des IA et identifier d'éventuelles similitudes ou différences marquées entre elles.
+
+\subsection{Utilisation de la métrique ROUGE}
+
+La première métrique utilisée dans notre étude est ROUGE (Recall-Oriented Understudy for Gisting Evaluation). Cette technique compare la similarité entre une phrase de référence et celle générée par l'IA. Elle se base sur le comptage des chevauchements de mots (appelés n-grammes) ou de groupes de mots, selon les paramètres définis. La métrique ROUGE utilise le rappel, la précision et la F-mesure pour évaluer la similarité.\\
+
+Dans notre cas, nous avons utilisé ROUGE pour comparer les mots simples et les groupes de mots (en utilisant ROUGE-N). Le choix de la phrase de référence a été fait en prenant la phrase de chaque modèle et en la comparant à toutes les autres phrases générées par les différentes IA. Cette approche nous a permis d'obtenir une matrice de comparaison, où chaque IA est confrontée aux autres, et qui nous donne la proximité des phrases générées pour une image donnée.
+
+\begin{figure}[ht!]
+\centering
+\includegraphics[width=0.35\textwidth]{images/rouge_score_mean_1000.png}
+\caption{Moyenne de la métrique ROUGE sur un échantillon de 1000 phrases}
+\label{fig}
+\end{figure}
+
+Les résultats présentés dans la figure \ref{fig} illustrent la comparaison effectuée à l'aide de la métrique ROUGE-1 sur un échantillon de 1000 phrases. On peut observer que les réponses générées par les modèles t5\_2 et t5\_1 sont très similaires (couleurs bleu), avec un score de similarité élevé (indice de 0.6). En revanche, les réponses générées par les modèles bart et FST sont nettement différentes, avec un score de similarité faible, ce qui indique l'absence de lien significatif entre leurs réponses respectives.
+
+\subsection{Analyse des résultats avec ROUGE-N}
+
+Dans cette section, nous avons calculé la moyenne des résultats de la métrique ROUGE-4 sur un ensemble de 1000 images commentées, ce qui permet de comparer les 4-grammes entre les différentes IA.
+
+\begin{figure}[ht!]
+\centering
+\includegraphics[width=0.35\textwidth]{images/rouge_score_mean_4.png}
+\caption{Résultats de la métrique ROUGE-4 sur 1000 phrases}
+\label{fig:rouge_score_mean_4}
+\end{figure}
+
+Les résultats présentés dans la figure \ref{fig:rouge_score_mean_4} confirment les tendances observées précédemment avec ROUGE-1. Les modèles t5\_1 et t5\_2 génèrent des phrases très similaires, ce qui peut s'expliquer par le fait qu'ils utilisent souvent les mêmes structures de génération.
+
+\subsection{Analyse avec les métriques BLEU et METEOR}
+
+En plus de la métrique ROUGE, nous avons également calculé les métriques BLEU et METEOR pour évaluer la similarité entre les phrases générées par les différentes IA.
+
+La métrique BLEU (Bilingual Evaluation Understudy) mesure la qualité des reformulations, en se basant sur la précision des N-grammes tout en pénalisant la brièveté. Toutefois, cette métrique a tendance à pénaliser les phrases qui utilisent des mots moins courants. Dans notre étude, nous avons considéré une phrase de référence et nous avons comparé les phrases générées par les différentes IA pour une même image.\\
+
+La métrique METEOR (Metric for Evaluation of Translation with Explicit ORdering) se base sur la moyenne harmonique et prend en compte la correspondance radicale et synonymique. Cette métrique est généralement plus précise que BLEU.\\
+
+\begin{figure}[htbp!]
+\centering
+\includegraphics[width=0.35\textwidth]{images/bleu_score_mean_1000.png}
+\caption{Moyenne des scores BLEU pour les phrases générées par les différentes IA}
+\label{fig}
+\end{figure}
+
+\begin{figure}[htbp!]
+\centering
+\includegraphics[width=0.35\textwidth]{images/meteor_score_mean_1000.png}
+\caption{Moyenne des scores METEOR pour les phrases générées par les différentes IA}
+\label{fig}
+\end{figure}
+
+Nous avons réalisé ces mesures sur un grand ensemble de phrases, ce qui nous a permis de moyenner les résultats et d'en tirer des conclusions générales. Les résultats obtenus avec les métriques BLEU et METEOR sont similaires à ceux obtenus avec ROUGE. On peut observer que les modèles t5\_1 et t5\_2 génèrent des phrases très proches pour une image donnée, tandis que les modèles bart\_1 et FST se démarquent avec des phrases moins similaires.
+
+\subsection{Conclusion de l'analyse}
+
+En résumé, notre analyse basée sur les métriques ROUGE, BLEU et METEOR a permis de mettre en évidence des similarités et des différences entre les phrases générées par les différentes IA pour une même image. Les modèles t5\_1 et t5\_2 génèrent des phrases très proches, tandis que les modèles bart\_1 et FST se distinguent par des phrases moins similaires. Ces résultats fournissent des indications précieuses sur le comportement des différentes IA et peuvent aider à sélectionner le modèle le plus adapté à une tâche spécifique.
+
 % An example of a floating figure using the graphicx package.
 % Note that \label must occur AFTER (or within) \caption.
 % For figures, \caption should occur after the \includegraphics.
@@ -433,7 +499,7 @@ Subsubsection text here.
 % Reminder: the "draftcls" or "draftclsnofoot", not "draft", class
 % option should be used if it is desired that the figures are to be
 % displayed while in draft mode.
-%
+
 %\begin{figure}[!t]
 %\centering
 %\includegraphics[width=2.5in]{myfigure}
