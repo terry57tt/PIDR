@@ -14,7 +14,7 @@ print(f'Number of raw words by creator: {number_of_words_by_creator}')
 
 # Box plot of number of words by sentence by creator
 raw_data['number_of_words'] = raw_data['caption'].str.split().str.len()
-px.box(raw_data, x='createur', y='number_of_words', title='Number of words by sentence by creator').show()
+px.box(raw_data, x='createur', y='number_of_words', title='Number of words by sentence by creator',boxmean='sd').show()
 
 #### Sample of mean sentences of each creator compared to outliers
 # Mean number of words for FST

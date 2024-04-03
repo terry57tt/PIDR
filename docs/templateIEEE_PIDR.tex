@@ -480,7 +480,7 @@ Le but est de mettre en évidence certains signes de qualités des textes par ra
 \subsection {Richesse du vocabulaire}
 
 Pour évaluer la "qualité" d'un texte, on peut commencer par évaluer la richesse du vocabulaire. 
-Par richesse du vocabulaire, on peut entendre plusieurs choses : plusieurs méthodes peuvent être utilisé pour évaluer la richesse du vocabulaire. 
+Par richesse du vocabulaire, on peut entendre plusieurs choses, en effet plusieurs méthodes peuvent être utilisé pour évaluer la richesse du vocabulaire. 
 Dans un premier temps, on peut compter le nombre de mots différents généré par chaque intelligence artificielle. 
 
 On obtient les résultats suivants : 
@@ -501,32 +501,39 @@ On obtient les résultats suivants :
 
 \vspace{5mm}
 
-On peut voir que BART\_2 et BART\_1 ont les plus grands nombres de mots différents, suivi de T5\_2, T5\_1 et FST. Ce qui pourrait être un signe que BART\_2 et BART\_1 ont un vocabulaire plus riche que les autres, et qu'elles emploie des mots plus variés.\\
+Avec les résultats obtenus, on observe que BART\_2 et BART\_1 ont un lexique plus variés, suivi de T5\_2, T5\_1 et FST. Cela pourrait indiquer que BART\_2 et BART\_1 ont un vocabulaire plus riche que les autres, et qu'elles emploient alors des mots plus variés.\\
 
-Néanmoins, cette méthode n'est pas parfaite, car elle ne prend pas en compte la fréquence d'apparition des mots ni la longueur de la phrase.
+Néanmoins, cette méthode n'est que très superficielle, car elle ne prend pas en compte la fréquence d'apparition des mots ni la longueur de la phrase.
 
-Aussi tentons d'évaluer la longueur moyenne des phrases générées par chaque IA. Rien n'affirme que des phrases plus longues sont de meilleure qualité, mais cela pourrait expliquer le nombre de mots différents utilisés. Par ailleurs, 
-la longueur de la phrase peut cacher une certaine complexité syntaxique, ainsi qu'un contenu explicatif de l'image commenté mieux fourni : le fond serait alors de meilleur qualité. Voyons ce que ca donne : 
+Aussi tentons d'évaluer des caractéristiques statistiques basiques comme la moyenne, la médiane et l'écart type du nombre de mots par phrase générée par chaque IA. Cela pourrait éventuellement expliquer la richesse du vocabulaire de chaque IA.
 
-\vspace{5mm}
-
-\begin{mdframed}
-  \begin{lstlisting}[style=terminal]
-    Average length of sentences in BART_1 : 11.752437914445455
-    Average length of sentences in BART_2 : 13.295410219737356
-    Average length of sentences in T5_1 : 14.149915485632558
-    Average length of sentences in T5_2 : 11.261864516967885
-    Average length of sentences in FST : 7.4020283448186195
-  \end{lstlisting}
-\end{mdframed}
+En effet, la longueur d'une phrase peut cacher une certaine complexité syntaxique, ainsi qu'un contenu explicatif de l'image commenté plus fourni : le fond serait alors de meilleur qualité. Voyons ce que cela donne : 
 
 \vspace{5mm}
 
-Les résultats sont très interessant puisque l'on peut voir que T5\_1 a les phrases les plus longues et pourtant un des vocabulaire le plus pauvre, ce qui peut être le signe d'une répétition excessive des mêmes mots. 
+%\begin{mdframed}
+%  \begin{lstlisting}[style=terminal]
+%    Average length of sentences in BART_1 : 11.752
+%    Average length of sentences in BART_2 : 13.295
+%    Average length of sentences in T5_1 : 14.149
+%    Average length of sentences in T5_2 : 11.261
+%    Average length of sentences in FST : 7.402
+%  \end{lstlisting}
+%\end{mdframed}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.5\textwidth]{images/boxplot_sentences.png}
+  \caption{Boîte à moustache de la longueur des phrases générées par chaque IA}
+  \end{figure}
+
+\vspace{5mm}
+
+Les résultats sont très interessants puisque l'on peut voir que la génération T5\_1 a les phrases les plus longues en moyenne et pourtant un des vocabulaire le plus pauvre, ce qui pourrait être le signe d'une répétition accru des mêmes mots. 
 Les différences de longueurs entre BART\_1 et BART\_2 sont également interessantes, puisqu'elle pourrait expliquer le différentiel de vocabulaire entre les deux modèles.
-Ensuite, la longueur des phrases de FST est la plus faible, ce qui pourrait expliquer la pauvreté du vocabulaire.
+Ensuite, la longueur des phrases de FST est la plus faible, ce qui pourrait expliquer la pauvreté de son vocabulaire.
 
-Il peut être interessant d'étudier la fréquence d'utilisation des mots les plus fréquents. On peut pour cela utiliser un diagramme à barres empilées (on met ainsi en évidence la contribution de chaque IA à l'utilisation globale de chaque mot).
+Il peut être aussi interessant d'étudier la fréquence d'utilisation des mots les plus fréquents. On peut pour cela utiliser un diagramme à barres empilées (on met ainsi en évidence la contribution de chaque IA à l'utilisation globale de chaque mot).
 
 \vspace{5mm}
 
@@ -538,7 +545,7 @@ Il peut être interessant d'étudier la fréquence d'utilisation des mots les pl
 
 \vspace{5mm}
 
-Un fait particulièrement interessant visible sur ce diagramme est que certains des mots les plus fréquents tel que "grey", "darkgrey", "lightgrey" ne sont utilisé que par FST. Cela révèle une focalisation excessive sur la couleur grise surtout quand on sait que ce n'est pas une couleur si fréquente sur les images. 
+Un fait particulièrement interessant visible sur ce diagramme est que certains des mots les plus fréquents tel que "grey", "darkgrey", "lightgrey" ne sont utilisé que par FST. Cela révèle une focalisation excessive sur la couleur grise qui n'est apriori une couleur plus présente en générale dans les oeuvres. 
 La pertinence des réponses de FST peut donc remise en question sachant qu'elle semble concentrée sur les mêmes caractéristiques, cela peut également expliquer la pauvreté du vocabulaire chez FST.
 
 \subsection {Diversité syntaxique au sein d'une même IA}
@@ -556,7 +563,7 @@ Voici un exemple :
 
 \vspace{5mm}
 
-On remarque ici que la matrice de diversité est relativement sombre, ce qui signifie que les phrases générées par BART\_1 sont relativement différentes les unes des autres, demontrant ainsi une certaine capacité à renouveler les structures.
+On remarque ici que la matrice de diversité est relativement sombre, donc proche de 0, ce qui signifie que les phrases générées par BART\_1 sont relativement différentes les unes des autres, démontrant ainsi une certaine capacité à renouveler ses structures phrastiques.
 
 \vspace{5mm}
 
@@ -568,7 +575,7 @@ On remarque ici que la matrice de diversité est relativement sombre, ce qui sig
 
 \vspace{5mm}
 
-On remarque ici que la matrice est globalement plus claire que la précédente mais reste néanmoins assez sombre : les phrases sont donc relativement différentes.
+Ce qui est remarquable pour cette matrice est qu'elle est globalement plus claire que la précédente mais reste néanmoins assez sombre : les phrases sont donc relativement différentes.
 
 \vspace{5mm}
 
