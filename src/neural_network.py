@@ -11,6 +11,9 @@ from nltk.stem import SnowballStemmer
 # Charger les données depuis le fichier CSV
 X = pd.read_csv('data/captions.csv')
 
+X = X[X['createur'] == 't5_2']
+
+
 # Prétraitement des légendes
 preprocessed_captions = []
 for sentence in X['caption']:
@@ -61,3 +64,9 @@ for i in range(len(vecteurs_codes)):
 
 diversite_expressive = np.mean(distances)
 print("Diversité expressive :", diversite_expressive)
+
+#bart_1 = 9.221787
+#bart_2 = 7.597049
+#t5_1 = 7.4523525
+#t5_2 = 6.7972846
+#FST = 6.125488
