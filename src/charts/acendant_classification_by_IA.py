@@ -5,7 +5,7 @@ import nltk
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 from nltk.stem import SnowballStemmer
-from gensim.models import Word2Vec
+from gensim.models import Doc2Vec
 
 def ascendant_classification_by_IA(createur):
     # Download NLTK resources
@@ -35,7 +35,7 @@ def ascendant_classification_by_IA(createur):
         preprocessed_captions.append(words)
 
     # Train Word2Vec model
-    model = Word2Vec(sentences=preprocessed_captions, vector_size=100, window=5, min_count=1, workers=4)
+    model = Doc2Vec(sentences=preprocessed_captions, vector_size=100, window=5, min_count=1, workers=4)
 
     # Get word embeddings
     word_vectors = model.wv
