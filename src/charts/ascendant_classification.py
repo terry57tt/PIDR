@@ -5,7 +5,7 @@ import nltk
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 from nltk.stem import SnowballStemmer
-from gensim.models import Word2Vec
+from gensim.models import Doc2Vec
 
 # Download NLTK resources
 nltk.download('punkt')
@@ -32,8 +32,8 @@ for sentence in X_sample['caption']:
 
     preprocessed_captions.append(words)
 
-# Train Word2Vec model
-model = Word2Vec(sentences=preprocessed_captions, vector_size=100, window=5, min_count=1, workers=4)
+# Train Doc2Vec model
+model = Doc2Vec(sentences=preprocessed_captions, vector_size=100, window=5, min_count=1, workers=4)
 
 # Get word embeddings
 word_vectors = model.wv
