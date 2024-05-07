@@ -9,64 +9,62 @@ from nltk.corpus import stopwords
 from nltk.stem import SnowballStemmer
 
 # Charger les données depuis le fichier CSV
-X = pd.read_csv('data/captions.csv')
+data = pd.read_csv('data/captions.csv')
 
-X = X[X['createur'] == 't5_2']
+for createur in data['createur'].unique():
+    X = data[data['createur'] == createur]
 
+    # Prétraitement des légendes
+    preprocessed_captions = []
+    for sentence in X['caption']:
+        # Tokenization
+        words = word_tokenize(sentence)
 
-# Prétraitement des légendes
-preprocessed_captions = []
-for sentence in X['caption']:
-    # Tokenization
-    words = word_tokenize(sentence)
+        # Conversion en minuscules et suppression des mots non alphabétiques
+        words = [word.lower() for word in words if word.isalpha()]
 
-    # Conversion en minuscules et suppression des mots non alphabétiques
-    words = [word.lower() for word in words if word.isalpha()]
+        # Suppression des mots vides
+        stop_words = set(stopwords.words('english'))
+        words = [word for word in words if word not in stop_words]
 
-    # Suppression des mots vides
-    stop_words = set(stopwords.words('english'))
-    words = [word for word in words if word not in stop_words]
+        preprocessed_captions.append(words)
 
-    preprocessed_captions.append(words)
+    # Entraînement du modèle Word2Vec
+    model = Word2Vec(sentences=preprocessed_captions, vector_size=100, window=5, min_count=1, workers=4)
 
-# Entraînement du modèle Word2Vec
-model = Word2Vec(sentences=preprocessed_captions, vector_size=100, window=5, min_count=1, workers=4)
+    # Vectorisation des textes
+    vecteurs_textes = []
+    for texte in X['caption']:
+        vecteur_moyen = np.mean([model.wv[mot] for mot in texte.split() if mot in model.wv.key_to_index], axis=0)
+        vecteurs_textes.append(vecteur_moyen)
 
-# Vectorisation des textes
-vecteurs_textes = []
-for texte in X['caption']:
-    vecteur_moyen = np.mean([model.wv[mot] for mot in texte.split() if mot in model.wv.key_to_index], axis=0)
-    vecteurs_textes.append(vecteur_moyen)
+    vecteurs_textes = np.array(vecteurs_textes)
 
-vecteurs_textes = np.array(vecteurs_textes)
+    # Création du réseau de neurones auto-encodeur
+    entree = Input(shape=(100,))
+    code = Dense(8, activation='relu')(entree)
+    sortie = Dense(100, activation='sigmoid')(code)
 
-# Création du réseau de neurones auto-encodeur
-entree = Input(shape=(100,))
-code = Dense(32, activation='relu')(entree)
-sortie = Dense(100, activation='sigmoid')(code)
+    auto_encodeur = Model(entree, sortie)
+    encodeur = Model(entree, code)
 
-auto_encodeur = Model(entree, sortie)
-encodeur = Model(entree, code)
+    # Compilation du réseau de neurones
+    auto_encodeur.compile(optimizer='adam', loss='mean_squared_error')
 
-# Compilation du réseau de neurones
-auto_encodeur.compile(optimizer='adam', loss='mean_squared_error')
+    # Entraînement du réseau de neurones
+    auto_encodeur.fit(vecteurs_textes, vecteurs_textes, epochs=200, batch_size=32, shuffle=True)
 
-# Entraînement du réseau de neurones
-auto_encodeur.fit(vecteurs_textes, vecteurs_textes, epochs=100, batch_size=32, shuffle=True)
+    # Évaluation de la perte de reconstruction
+    perte_reconstruction = auto_encodeur.evaluate(vecteurs_textes, vecteurs_textes)
 
-# Calcul de la distance entre les vecteurs codés pour évaluer la diversité expressive
-vecteurs_codes = encodeur.predict(vecteurs_textes)
-distances = []
-for i in range(len(vecteurs_codes)):
-    for j in range(i + 1, len(vecteurs_codes)):
-        distance = np.linalg.norm(vecteurs_codes[i] - vecteurs_codes[j])
-        distances.append(distance)
+    # Calcul de la distance entre les vecteurs codés pour évaluer la diversité expressive
+    vecteurs_codes = encodeur.predict(vecteurs_textes)
+    distances = []
+    for i in range(len(vecteurs_codes)):
+        for j in range(i + 1, len(vecteurs_codes)):
+            distance = np.linalg.norm(vecteurs_codes[i] - vecteurs_codes[j])
+            distances.append(distance)
 
-diversite_expressive = np.mean(distances)
-print("Diversité expressive :", diversite_expressive)
-
-#bart_1 = 9.221787
-#bart_2 = 7.597049
-#t5_1 = 7.4523525
-#t5_2 = 6.7972846
-#FST = 6.125488
+    diversite_expressive = np.mean(distances)
+    print("Diversité expressive de ",createur," : ", diversite_expressive)
+    print("Perte de reconstruction de ",createur," : ", perte_reconstruction)
