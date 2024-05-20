@@ -13,7 +13,7 @@ def get_sample():
     X = pd.read_csv('data/captions.csv')
     ids = X['idInterpretation_id'].unique()
     X_sample = pd.DataFrame(columns=X.columns)
-    for i in range(0,100):
+    for i in range(0,120):
         x = np.random.choice(ids)
         new_sample = X[X['idInterpretation_id'] == x]
         if X_sample.empty:
@@ -70,10 +70,10 @@ def ascendant_classification_by_IA(createur,sample):
     labels = [f"{id}_{idInterpretation_id}" for id, idInterpretation_id in zip(X_sample['id'], X_sample['idInterpretation_id'])]
 
     # Plot dendrogram
-    dendrogram = shc.dendrogram(shc.linkage(sentence_embeddings, method='ward'), labels=labels, orientation='right' )
+    dendrogram = shc.dendrogram(shc.linkage(sentence_embeddings, method='ward'), no_labels=True, orientation='right' )
     plt.xlim(0, 0.4) 
 
-    plt.savefig('ACH/w_ascendant_classification_by_IA_'+createur+'_sample_100.png')
+    plt.savefig('ACH/Ascendant_classification_by_IA_'+createur+'_sample_100.png')
     #plt.show()
 
 
